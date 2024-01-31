@@ -9,7 +9,7 @@
 
 #### First step will be to collect relevant data. The datasets they provide are fragmented. The same crash will appear in different csv sheets with different data (weather, vehicle, person, etc). 
 - Decide what datasheets.
-  - vehicle, accident, person, weather, distract, drimpair, drugs (need to check if drugs are only reported with fatalities, it will bias the model)
+  - vehicle, accident, person, weather, distract, drimpair, drugs (need to check if certain details like weather, distract, drugs, and other info are only reported with (non)fatalities, it will bias the model)
   - List of columns that are important:
     - Start list...
 - Download the data, and perform data cleaning. Prepare it for migration to database. Will be done using python and data sci libraries such as Pandas, numpy, etc.
