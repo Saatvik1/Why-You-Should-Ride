@@ -87,6 +87,9 @@
       - ALC_RES
       - ALC_RESNAME
 - Download the data, and perform data cleaning. Prepare it for migration to database. Will be done using python and data sci libraries such as Pandas, numpy, etc.
+  - Using 2019, 2020, 2021 data. Using anaconda jupyter nb on local device.
+  - Will go from 2021 to 2019, starting from the largest data sets first (to keep things consistent).
+    - First step will to be take the datasets, import them into a dataframe, get rid of unnecessary columns. Repeat for all the datasets that year, then merge them (need to figure how). At the end will have 3 dataframes for all 3 years, and from there we can start cleaning up the data. 
 - Plan MySQL DB structure. Will be using Planet Scale as MySQL DB provider.
   - Make E-R diagram, and write out table properties, and then creation queries.
 - Make any changes to datasets before migration.
