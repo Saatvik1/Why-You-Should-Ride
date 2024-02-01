@@ -16,7 +16,7 @@
       - ST_CASE
       - VEH_NO
       - DRIMPAIRNAME
-    - weather:
+    - weather: (note: this is not available in 2019 dataset and before. But, there is a weather column in accident).
       - ST_CASE
       - WEATHERNAME
     - distract
