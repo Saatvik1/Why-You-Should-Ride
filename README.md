@@ -32,7 +32,7 @@
     - accident
       - ST_CASE
       - COUNTY
-      - COUNTNAME
+      - COUNTYNAME
       - CITY
       - CITYNAME
       - MONTH
@@ -45,7 +45,7 @@
       - ROUTENAME
       - LATITUDE
       - LONGITUD
-      - MAN_COL
+      - MAN_COLL
       - MAN_COLLNAME
       - LGT_COND
       - LGT_CONDNAME
