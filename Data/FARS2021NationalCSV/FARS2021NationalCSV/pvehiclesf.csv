@@ -1,0 +1,1753 @@
+STATE,STATENAME,ST_CASE,VEH_NO,PVEHICLESF,PVEHICLESFNAME
+1,Alabama,10011,2,0,None
+1,Alabama,10128,2,0,None
+1,Alabama,10155,2,0,None
+1,Alabama,10181,2,0,None
+1,Alabama,10279,3,0,None
+1,Alabama,10298,2,0,None
+1,Alabama,10314,2,0,None
+1,Alabama,10359,2,0,None
+1,Alabama,10443,3,0,None
+1,Alabama,10443,4,0,None
+1,Alabama,10548,2,0,None
+1,Alabama,10602,2,0,None
+1,Alabama,10792,3,0,None
+1,Alabama,10792,4,0,None
+1,Alabama,10809,2,0,None
+1,Alabama,10830,2,0,None
+1,Alabama,10851,2,0,None
+1,Alabama,10852,2,0,None
+1,Alabama,10860,2,0,None
+1,Alabama,10872,2,0,None
+2,Alaska,20002,2,0,None
+4,Arizona,40094,2,0,None
+4,Arizona,40141,2,0,None
+4,Arizona,40163,2,42,"Other Working Vehicle (Not Construction, Maintenance, Utility, Police, Fire, or EMS Vehicle)"
+4,Arizona,40411,2,0,None
+4,Arizona,40411,3,0,None
+4,Arizona,40411,4,0,None
+4,Arizona,40423,2,0,None
+4,Arizona,40423,3,0,None
+4,Arizona,40436,2,0,None
+4,Arizona,40533,2,0,None
+4,Arizona,40578,2,0,None
+4,Arizona,40666,2,0,None
+4,Arizona,40669,2,0,None
+4,Arizona,40704,2,0,None
+4,Arizona,40762,3,0,None
+4,Arizona,40815,2,0,None
+4,Arizona,40817,3,0,None
+4,Arizona,40903,2,0,None
+4,Arizona,40950,2,0,None
+4,Arizona,40986,2,0,None
+4,Arizona,41015,3,999,Reported as Unknown
+5,Arkansas,50008,2,0,None
+5,Arkansas,50008,3,0,None
+5,Arkansas,50008,4,0,None
+5,Arkansas,50077,2,0,None
+5,Arkansas,50077,3,0,None
+5,Arkansas,50566,2,0,None
+5,Arkansas,50582,1,0,None
+5,Arkansas,50631,2,0,None
+6,California,60001,2,0,None
+6,California,60008,2,0,None
+6,California,60034,2,0,None
+6,California,60069,3,0,None
+6,California,60124,2,0,None
+6,California,60180,2,0,None
+6,California,60202,2,0,None
+6,California,60240,2,0,None
+6,California,60308,4,0,None
+6,California,60323,2,0,None
+6,California,60405,2,0,None
+6,California,60531,2,0,None
+6,California,60531,3,0,None
+6,California,60531,4,0,None
+6,California,60531,5,0,None
+6,California,60534,2,0,None
+6,California,60590,2,42,"Other Working Vehicle (Not Construction, Maintenance, Utility, Police, Fire, or EMS Vehicle)"
+6,California,60605,2,0,None
+6,California,60715,2,0,None
+6,California,60756,2,0,None
+6,California,60810,3,0,None
+6,California,60819,3,0,None
+6,California,60819,4,0,None
+6,California,60858,2,0,None
+6,California,60869,2,0,None
+6,California,60871,3,0,None
+6,California,60871,4,0,None
+6,California,60871,5,0,None
+6,California,60871,6,0,None
+6,California,60953,2,0,None
+6,California,60958,1,0,None
+6,California,60995,2,0,None
+6,California,61039,2,0,None
+6,California,61045,3,0,None
+6,California,61053,2,0,None
+6,California,61061,3,0,None
+6,California,61106,3,0,None
+6,California,61107,2,0,None
+6,California,61115,2,0,None
+6,California,61192,2,0,None
+6,California,61192,3,0,None
+6,California,61192,4,0,None
+6,California,61228,2,0,None
+6,California,61238,2,0,None
+6,California,61243,3,0,None
+6,California,61243,4,0,None
+6,California,61255,2,0,None
+6,California,61294,3,0,None
+6,California,61294,4,0,None
+6,California,61356,2,0,None
+6,California,61428,3,0,None
+6,California,61505,3,0,None
+6,California,61505,4,0,None
+6,California,61507,2,0,None
+6,California,61519,3,0,None
+6,California,61551,3,0,None
+6,California,61552,2,0,None
+6,California,61552,3,0,None
+6,California,61552,4,0,None
+6,California,61552,5,0,None
+6,California,61552,6,0,None
+6,California,61552,7,0,None
+6,California,61552,8,0,None
+6,California,61560,2,0,None
+6,California,61561,2,0,None
+6,California,61563,2,0,None
+6,California,61595,2,0,None
+6,California,61595,3,0,None
+6,California,61595,4,0,None
+6,California,61595,5,0,None
+6,California,61599,2,0,None
+6,California,61599,3,0,None
+6,California,61599,4,0,None
+6,California,61614,2,0,None
+6,California,61621,4,0,None
+6,California,61645,3,0,None
+6,California,61678,6,0,None
+6,California,61678,7,0,None
+6,California,61678,8,0,None
+6,California,61678,9,0,None
+6,California,61678,10,0,None
+6,California,61681,2,0,None
+6,California,61681,3,0,None
+6,California,61686,2,0,None
+6,California,61686,3,0,None
+6,California,61723,2,0,None
+6,California,61756,3,0,None
+6,California,61805,2,0,None
+6,California,61811,2,0,None
+6,California,61811,3,0,None
+6,California,61811,4,0,None
+6,California,61811,5,0,None
+6,California,61827,2,0,None
+6,California,61855,4,0,None
+6,California,61855,5,0,None
+6,California,61856,2,0,None
+6,California,61872,2,0,None
+6,California,61906,2,0,None
+6,California,61925,2,0,None
+6,California,61927,2,0,None
+6,California,61927,3,0,None
+6,California,61972,3,0,None
+6,California,61986,2,0,None
+6,California,61993,3,0,None
+6,California,62044,2,0,None
+6,California,62056,2,0,None
+6,California,62056,3,0,None
+6,California,62057,2,0,None
+6,California,62107,3,0,None
+6,California,62107,4,0,None
+6,California,62111,2,0,None
+6,California,62160,3,0,None
+6,California,62162,2,0,None
+6,California,62172,3,0,None
+6,California,62175,2,0,None
+6,California,62181,2,0,None
+6,California,62183,2,0,None
+6,California,62183,3,0,None
+6,California,62183,4,0,None
+6,California,62184,2,0,None
+6,California,62184,3,0,None
+6,California,62184,4,0,None
+6,California,62268,2,0,None
+6,California,62324,2,0,None
+6,California,62324,3,0,None
+6,California,62353,2,0,None
+6,California,62428,3,0,None
+6,California,62428,4,0,None
+6,California,62430,3,0,None
+6,California,62438,2,0,None
+6,California,62441,2,0,None
+6,California,62482,2,0,None
+6,California,62491,3,0,None
+6,California,62491,4,0,None
+6,California,62500,3,0,None
+6,California,62500,4,0,None
+6,California,62500,5,0,None
+6,California,62503,2,0,None
+6,California,62536,2,0,None
+6,California,62536,3,0,None
+6,California,62539,2,0,None
+6,California,62593,3,0,None
+6,California,62597,2,0,None
+6,California,62597,3,0,None
+6,California,62597,4,0,None
+6,California,62597,5,0,None
+6,California,62605,2,0,None
+6,California,62610,3,0,None
+6,California,62611,2,0,None
+6,California,62611,3,0,None
+6,California,62611,4,0,None
+6,California,62611,5,0,None
+6,California,62611,6,0,None
+6,California,62611,7,0,None
+6,California,62611,8,0,None
+6,California,62611,9,0,None
+6,California,62611,10,0,None
+6,California,62633,2,0,None
+6,California,62638,3,0,None
+6,California,62641,2,0,None
+6,California,62648,2,0,None
+6,California,62648,3,0,None
+6,California,62650,3,0,None
+6,California,62681,2,0,None
+6,California,62688,2,0,None
+6,California,62709,3,0,None
+6,California,62726,2,0,None
+6,California,62727,3,0,None
+6,California,62727,4,0,None
+6,California,62729,2,0,None
+6,California,62730,2,0,None
+6,California,62744,2,0,None
+6,California,62744,3,0,None
+6,California,62744,4,0,None
+6,California,62750,3,0,None
+6,California,62834,2,0,None
+6,California,62847,2,0,None
+6,California,62851,2,0,None
+6,California,62888,2,0,None
+6,California,62960,3,0,None
+6,California,62960,4,0,None
+6,California,62970,2,0,None
+6,California,62977,4,0,None
+6,California,63022,2,0,None
+6,California,63052,2,0,None
+6,California,63060,2,0,None
+6,California,63088,2,0,None
+6,California,63088,3,0,None
+6,California,63092,3,0,None
+6,California,63092,4,0,None
+6,California,63104,2,0,None
+6,California,63106,2,0,None
+6,California,63118,2,0,None
+6,California,63118,3,0,None
+6,California,63118,4,0,None
+6,California,63118,5,0,None
+6,California,63126,2,0,None
+6,California,63131,2,0,None
+6,California,63131,3,0,None
+6,California,63143,2,0,None
+6,California,63143,3,0,None
+6,California,63143,4,0,None
+6,California,63145,2,0,None
+6,California,63145,3,0,None
+6,California,63145,4,0,None
+6,California,63257,2,0,None
+6,California,63277,2,0,None
+6,California,63284,3,0,None
+6,California,63304,3,0,None
+6,California,63338,2,0,None
+6,California,63349,2,0,None
+6,California,63370,2,0,None
+6,California,63391,2,0,None
+6,California,63391,3,0,None
+6,California,63404,2,0,None
+6,California,63404,3,0,None
+6,California,63421,3,0,None
+6,California,63421,4,0,None
+6,California,63467,3,0,None
+6,California,63467,4,0,None
+6,California,63472,2,0,None
+6,California,63472,3,0,None
+6,California,63472,4,0,None
+6,California,63472,5,0,None
+6,California,63472,6,0,None
+6,California,63472,7,0,None
+6,California,63514,5,0,None
+6,California,63520,2,0,None
+6,California,63540,2,0,None
+6,California,63544,2,0,None
+6,California,63552,2,0,None
+6,California,63562,3,0,None
+6,California,63578,2,0,None
+6,California,63583,2,0,None
+6,California,63658,2,0,None
+6,California,63671,2,0,None
+6,California,63682,2,0,None
+6,California,63682,3,0,None
+6,California,63682,4,0,None
+6,California,63682,5,0,None
+6,California,63682,6,0,None
+6,California,63686,2,0,None
+6,California,63732,2,0,None
+6,California,63803,2,0,None
+6,California,63803,3,0,None
+6,California,63805,3,0,None
+6,California,63816,2,0,None
+6,California,63817,3,0,None
+6,California,63817,4,0,None
+6,California,63825,2,0,None
+6,California,63825,3,0,None
+6,California,63828,2,0,None
+6,California,63832,3,0,None
+6,California,63841,2,0,None
+6,California,63855,2,0,None
+6,California,63888,2,0,None
+6,California,63903,2,0,None
+6,California,63903,3,0,None
+6,California,63903,4,0,None
+6,California,63903,5,0,None
+6,California,63903,6,0,None
+6,California,63904,3,0,None
+6,California,63905,2,0,None
+6,California,63931,2,0,None
+6,California,63936,2,0,None
+6,California,63936,3,0,None
+6,California,63957,4,0,None
+6,California,63962,2,0,None
+6,California,63986,3,0,None
+6,California,63986,4,0,None
+6,California,63988,3,0,None
+6,California,63988,4,0,None
+8,Colorado,80034,2,0,None
+8,Colorado,80050,2,0,None
+8,Colorado,80078,2,0,None
+8,Colorado,80126,2,0,None
+8,Colorado,80161,4,0,None
+8,Colorado,80161,6,0,None
+8,Colorado,80161,7,0,None
+8,Colorado,80161,8,0,None
+8,Colorado,80161,9,0,None
+8,Colorado,80261,2,0,None
+8,Colorado,80268,2,0,None
+8,Colorado,80326,2,42,"Other Working Vehicle (Not Construction, Maintenance, Utility, Police, Fire, or EMS Vehicle)"
+8,Colorado,80355,3,0,None
+8,Colorado,80399,3,0,None
+8,Colorado,80400,2,0,None
+8,Colorado,80420,2,0,None
+8,Colorado,80466,2,0,None
+8,Colorado,80507,2,0,None
+8,Colorado,80507,3,0,None
+8,Colorado,80507,4,0,None
+8,Colorado,80507,5,0,None
+8,Colorado,80595,2,0,None
+8,Colorado,80637,2,0,None
+8,Colorado,80637,3,0,None
+9,Connecticut,90016,2,0,None
+9,Connecticut,90040,1,0,None
+9,Connecticut,90087,2,0,None
+9,Connecticut,90087,3,0,None
+9,Connecticut,90092,1,0,None
+9,Connecticut,90114,3,0,None
+9,Connecticut,90127,2,0,None
+9,Connecticut,90139,2,0,None
+9,Connecticut,90207,1,0,None
+9,Connecticut,90207,2,0,None
+9,Connecticut,90226,1,0,None
+9,Connecticut,90239,3,0,None
+10,Delaware,100070,1,0,None
+10,Delaware,100112,2,0,None
+12,Florida,120023,2,0,None
+12,Florida,120023,3,0,None
+12,Florida,120023,4,0,None
+12,Florida,120023,5,0,None
+12,Florida,120023,6,0,None
+12,Florida,120023,7,0,None
+12,Florida,120023,8,0,None
+12,Florida,120102,2,0,None
+12,Florida,120155,2,0,None
+12,Florida,120183,2,0,None
+12,Florida,120186,2,0,None
+12,Florida,120186,3,0,None
+12,Florida,120202,2,0,None
+12,Florida,120216,2,0,None
+12,Florida,120228,2,0,None
+12,Florida,120228,3,0,None
+12,Florida,120228,4,0,None
+12,Florida,120296,2,0,None
+12,Florida,120296,3,0,None
+12,Florida,120356,3,0,None
+12,Florida,120380,3,0,None
+12,Florida,120380,4,0,None
+12,Florida,120380,5,0,None
+12,Florida,120380,6,0,None
+12,Florida,120380,7,0,None
+12,Florida,120432,3,0,None
+12,Florida,120432,4,0,None
+12,Florida,120448,3,0,None
+12,Florida,120468,2,0,None
+12,Florida,120559,2,0,None
+12,Florida,120637,2,0,None
+12,Florida,120742,2,0,None
+12,Florida,120762,3,0,None
+12,Florida,120792,1,0,None
+12,Florida,120835,2,0,None
+12,Florida,120860,2,0,None
+12,Florida,120860,3,0,None
+12,Florida,120950,2,0,None
+12,Florida,120954,2,0,None
+12,Florida,120983,3,0,None
+12,Florida,121026,3,0,None
+12,Florida,121047,2,0,None
+12,Florida,121047,3,0,None
+12,Florida,121047,4,0,None
+12,Florida,121047,5,0,None
+12,Florida,121089,3,0,None
+12,Florida,121106,2,0,None
+12,Florida,121142,2,0,None
+12,Florida,121149,2,0,None
+12,Florida,121149,3,0,None
+12,Florida,121183,3,0,None
+12,Florida,121194,3,0,None
+12,Florida,121216,2,0,None
+12,Florida,121216,3,0,None
+12,Florida,121252,2,0,None
+12,Florida,121329,2,0,None
+12,Florida,121340,2,0,None
+12,Florida,121370,2,0,None
+12,Florida,121370,3,0,None
+12,Florida,121410,2,0,None
+12,Florida,121461,2,0,None
+12,Florida,121487,3,0,None
+12,Florida,121491,2,0,None
+12,Florida,121520,2,0,None
+12,Florida,121520,3,0,None
+12,Florida,121520,4,0,None
+12,Florida,121520,5,0,None
+12,Florida,121554,2,0,None
+12,Florida,121630,2,0,None
+12,Florida,121681,3,0,None
+12,Florida,121681,4,0,None
+12,Florida,121681,5,0,None
+12,Florida,121731,1,0,None
+12,Florida,121791,3,0,None
+12,Florida,121890,2,0,None
+12,Florida,121890,3,0,None
+12,Florida,121901,2,0,None
+12,Florida,121901,3,0,None
+12,Florida,121901,4,0,None
+12,Florida,122000,2,0,None
+12,Florida,122151,2,0,None
+12,Florida,122276,2,0,None
+12,Florida,122276,3,0,None
+12,Florida,122382,2,0,None
+12,Florida,122412,2,0,None
+12,Florida,122412,3,0,None
+12,Florida,122485,2,0,None
+12,Florida,122485,3,0,None
+12,Florida,122512,2,0,None
+12,Florida,122609,4,0,None
+12,Florida,122609,5,0,None
+12,Florida,122644,2,0,None
+12,Florida,122706,2,0,None
+12,Florida,122830,2,0,None
+12,Florida,122851,2,0,None
+12,Florida,122854,2,0,None
+12,Florida,122901,2,0,None
+12,Florida,122928,3,0,None
+12,Florida,122991,3,0,None
+12,Florida,122991,4,0,None
+12,Florida,122991,5,0,None
+12,Florida,123032,2,0,None
+12,Florida,123065,2,0,None
+12,Florida,123065,3,0,None
+12,Florida,123065,4,0,None
+12,Florida,123065,5,0,None
+12,Florida,123065,6,0,None
+12,Florida,123103,3,0,None
+12,Florida,123111,2,0,None
+12,Florida,123128,1,0,None
+12,Florida,123191,2,0,None
+12,Florida,123194,3,0,None
+12,Florida,123212,2,0,None
+12,Florida,123212,3,0,None
+12,Florida,123295,2,0,None
+12,Florida,123296,2,0,None
+12,Florida,123369,2,0,None
+12,Florida,123369,3,0,None
+12,Florida,123426,5,0,None
+12,Florida,123447,3,0,None
+12,Florida,123536,2,0,None
+13,Georgia,130007,2,41,"Police, Fire, or EMS Vehicle Working at the Scene of an Emergency or Performing Other Traffic Control Activities"
+13,Georgia,130007,3,41,"Police, Fire, or EMS Vehicle Working at the Scene of an Emergency or Performing Other Traffic Control Activities"
+13,Georgia,130070,2,0,None
+13,Georgia,130070,3,0,None
+13,Georgia,130070,4,0,None
+13,Georgia,130070,5,0,None
+13,Georgia,130070,6,0,None
+13,Georgia,130113,2,0,None
+13,Georgia,130135,2,0,None
+13,Georgia,130142,3,0,None
+13,Georgia,130142,4,0,None
+13,Georgia,130142,5,0,None
+13,Georgia,130206,2,0,None
+13,Georgia,130282,2,0,None
+13,Georgia,130377,2,0,None
+13,Georgia,130440,3,0,None
+13,Georgia,130469,4,0,None
+13,Georgia,130469,5,0,None
+13,Georgia,130508,2,0,None
+13,Georgia,130574,2,0,None
+13,Georgia,130639,2,0,None
+13,Georgia,130921,2,0,None
+13,Georgia,130940,2,0,None
+13,Georgia,131026,2,0,None
+13,Georgia,131117,2,0,None
+13,Georgia,131117,3,0,None
+13,Georgia,131117,4,0,None
+13,Georgia,131150,2,0,None
+13,Georgia,131423,3,0,None
+13,Georgia,131423,4,0,None
+13,Georgia,131487,2,0,None
+13,Georgia,131587,2,0,None
+13,Georgia,131611,2,0,None
+15,Hawaii,150024,3,0,None
+15,Hawaii,150024,4,0,None
+15,Hawaii,150024,5,0,None
+15,Hawaii,150042,3,0,None
+15,Hawaii,150053,2,41,"Police, Fire, or EMS Vehicle Working at the Scene of an Emergency or Performing Other Traffic Control Activities"
+16,Idaho,160014,2,999,Reported as Unknown
+16,Idaho,160188,3,0,None
+16,Idaho,160240,2,0,None
+16,Idaho,160242,2,0,None
+17,Illinois,170023,2,0,None
+17,Illinois,170075,2,0,None
+17,Illinois,170081,2,0,None
+17,Illinois,170114,3,0,None
+17,Illinois,170114,4,0,None
+17,Illinois,170158,2,0,None
+17,Illinois,170161,2,0,None
+17,Illinois,170176,2,0,None
+17,Illinois,170179,2,0,None
+17,Illinois,170184,2,0,None
+17,Illinois,170186,2,0,None
+17,Illinois,170202,2,0,None
+17,Illinois,170238,3,0,None
+17,Illinois,170295,2,0,None
+17,Illinois,170306,2,0,None
+17,Illinois,170310,2,0,None
+17,Illinois,170367,3,0,None
+17,Illinois,170367,4,0,None
+17,Illinois,170367,6,0,None
+17,Illinois,170367,7,0,None
+17,Illinois,170375,6,0,None
+17,Illinois,170375,7,0,None
+17,Illinois,170395,4,0,None
+17,Illinois,170407,2,0,None
+17,Illinois,170408,2,0,None
+17,Illinois,170412,2,0,None
+17,Illinois,170464,2,0,None
+17,Illinois,170483,2,0,None
+17,Illinois,170553,2,0,None
+17,Illinois,170562,3,0,None
+17,Illinois,170623,2,0,None
+17,Illinois,170623,3,0,None
+17,Illinois,170633,2,0,None
+17,Illinois,170636,2,0,None
+17,Illinois,170636,3,0,None
+17,Illinois,170640,5,0,None
+17,Illinois,170640,6,0,None
+17,Illinois,170640,7,0,None
+17,Illinois,170709,2,0,None
+17,Illinois,170709,3,0,None
+17,Illinois,170736,2,0,None
+17,Illinois,170743,2,0,None
+17,Illinois,170743,3,0,None
+17,Illinois,170772,2,0,None
+17,Illinois,170798,2,0,None
+17,Illinois,170823,2,0,None
+17,Illinois,170823,3,0,None
+17,Illinois,170823,4,0,None
+17,Illinois,170823,5,0,None
+17,Illinois,170823,6,0,None
+17,Illinois,170833,2,0,None
+17,Illinois,170833,3,0,None
+17,Illinois,170838,3,0,None
+17,Illinois,170838,4,0,None
+17,Illinois,170854,2,0,None
+17,Illinois,170867,2,0,None
+17,Illinois,170879,3,0,None
+17,Illinois,170884,2,0,None
+17,Illinois,170884,3,0,None
+17,Illinois,170884,4,0,None
+17,Illinois,170903,3,0,None
+17,Illinois,170920,2,0,None
+17,Illinois,170937,2,0,None
+17,Illinois,170940,2,0,None
+17,Illinois,170940,3,0,None
+17,Illinois,170970,5,0,None
+17,Illinois,170974,2,0,None
+17,Illinois,170981,2,0,None
+17,Illinois,171014,2,0,None
+17,Illinois,171014,3,0,None
+17,Illinois,171014,4,0,None
+17,Illinois,171014,5,0,None
+17,Illinois,171029,2,0,None
+17,Illinois,171029,3,0,None
+17,Illinois,171104,2,0,None
+17,Illinois,171146,2,0,None
+17,Illinois,171146,3,0,None
+17,Illinois,171158,3,0,None
+17,Illinois,171191,2,0,None
+17,Illinois,171191,3,0,None
+17,Illinois,171191,4,0,None
+17,Illinois,171192,3,0,None
+17,Illinois,171192,4,0,None
+17,Illinois,171192,5,0,None
+17,Illinois,171192,6,0,None
+17,Illinois,171192,7,0,None
+17,Illinois,171212,2,0,None
+17,Illinois,171273,2,0,None
+17,Illinois,171273,3,0,None
+17,Illinois,171279,2,0,None
+18,Indiana,180100,2,0,None
+18,Indiana,180125,2,0,None
+18,Indiana,180139,2,0,None
+18,Indiana,180193,2,0,None
+18,Indiana,180193,3,0,None
+18,Indiana,180207,2,0,None
+18,Indiana,180217,2,42,"Other Working Vehicle (Not Construction, Maintenance, Utility, Police, Fire, or EMS Vehicle)"
+18,Indiana,180233,2,0,None
+18,Indiana,180233,3,0,None
+18,Indiana,180246,2,0,None
+18,Indiana,180267,2,0,None
+18,Indiana,180279,2,0,None
+18,Indiana,180352,2,0,None
+18,Indiana,180421,3,0,None
+18,Indiana,180422,1,0,None
+18,Indiana,180448,2,0,None
+18,Indiana,180501,2,0,None
+18,Indiana,180520,1,0,None
+18,Indiana,180520,2,0,None
+18,Indiana,180612,2,0,None
+18,Indiana,180632,2,0,None
+18,Indiana,180725,2,0,None
+18,Indiana,180734,2,0,None
+18,Indiana,180744,2,0,None
+18,Indiana,180778,2,0,None
+18,Indiana,180817,2,0,None
+18,Indiana,180855,2,0,None
+19,Iowa,190017,4,0,None
+19,Iowa,190067,2,0,None
+19,Iowa,190110,2,0,None
+19,Iowa,190147,2,0,None
+19,Iowa,190179,1,0,None
+19,Iowa,190235,2,0,None
+19,Iowa,190240,2,0,None
+19,Iowa,190302,3,0,None
+20,Kansas,200101,3,0,None
+20,Kansas,200181,3,0,None
+20,Kansas,200190,2,0,None
+20,Kansas,200206,1,0,None
+20,Kansas,200212,2,0,None
+20,Kansas,200212,3,0,None
+20,Kansas,200212,4,0,None
+20,Kansas,200249,2,0,None
+20,Kansas,200289,2,0,None
+20,Kansas,200289,3,0,None
+20,Kansas,200297,2,0,None
+20,Kansas,200372,6,0,None
+21,Kentucky,210041,2,0,None
+21,Kentucky,210041,3,0,None
+21,Kentucky,210041,4,0,None
+21,Kentucky,210062,2,0,None
+21,Kentucky,210062,3,0,None
+21,Kentucky,210092,4,0,None
+21,Kentucky,210092,5,0,None
+21,Kentucky,210230,2,0,None
+21,Kentucky,210255,2,0,None
+21,Kentucky,210259,2,0,None
+21,Kentucky,210259,3,0,None
+21,Kentucky,210279,4,0,None
+21,Kentucky,210313,2,0,None
+21,Kentucky,210424,2,0,None
+21,Kentucky,210466,2,0,None
+21,Kentucky,210475,2,0,None
+21,Kentucky,210526,3,0,None
+21,Kentucky,210531,3,0,None
+21,Kentucky,210580,2,0,None
+21,Kentucky,210580,3,0,None
+21,Kentucky,210593,2,0,None
+21,Kentucky,210597,2,0,None
+21,Kentucky,210605,2,0,None
+21,Kentucky,210605,3,0,None
+21,Kentucky,210628,2,0,None
+21,Kentucky,210638,2,0,None
+21,Kentucky,210640,2,0,None
+21,Kentucky,210649,3,0,None
+21,Kentucky,210685,2,0,None
+21,Kentucky,210685,3,0,None
+21,Kentucky,210704,2,0,None
+21,Kentucky,210704,4,0,None
+22,Louisiana,220008,2,0,None
+22,Louisiana,220143,2,0,None
+22,Louisiana,220143,3,0,None
+22,Louisiana,220143,4,0,None
+22,Louisiana,220218,2,0,None
+22,Louisiana,220245,2,0,None
+22,Louisiana,220245,3,0,None
+22,Louisiana,220274,2,0,None
+22,Louisiana,220274,3,0,None
+22,Louisiana,220279,2,0,None
+22,Louisiana,220279,3,0,None
+22,Louisiana,220285,2,0,None
+22,Louisiana,220337,3,0,None
+22,Louisiana,220344,2,0,None
+22,Louisiana,220365,2,0,None
+22,Louisiana,220404,2,0,None
+22,Louisiana,220410,2,0,None
+22,Louisiana,220570,3,0,None
+22,Louisiana,220637,2,0,None
+22,Louisiana,220644,2,0,None
+22,Louisiana,220649,2,0,None
+22,Louisiana,220658,2,0,None
+22,Louisiana,220658,3,0,None
+22,Louisiana,220658,4,0,None
+22,Louisiana,220659,2,0,None
+22,Louisiana,220745,3,0,None
+22,Louisiana,220745,4,0,None
+22,Louisiana,220745,5,0,None
+22,Louisiana,220768,2,0,None
+22,Louisiana,220848,2,0,None
+22,Louisiana,220848,3,0,None
+22,Louisiana,220848,4,0,None
+22,Louisiana,220848,5,0,None
+22,Louisiana,220848,6,0,None
+22,Louisiana,220851,3,0,None
+22,Louisiana,220862,2,41,"Police, Fire, or EMS Vehicle Working at the Scene of an Emergency or Performing Other Traffic Control Activities"
+22,Louisiana,220863,2,0,None
+22,Louisiana,220866,2,0,None
+22,Louisiana,220870,2,0,None
+22,Louisiana,220870,3,0,None
+22,Louisiana,220871,2,0,None
+23,Maine,230008,1,0,None
+24,Maryland,240006,2,0,None
+24,Maryland,240030,2,0,None
+24,Maryland,240030,3,0,None
+24,Maryland,240030,4,0,None
+24,Maryland,240049,2,0,None
+24,Maryland,240058,2,0,None
+24,Maryland,240114,2,0,None
+24,Maryland,240132,2,0,None
+24,Maryland,240132,3,0,None
+24,Maryland,240132,4,0,None
+24,Maryland,240150,2,0,None
+24,Maryland,240150,3,0,None
+24,Maryland,240155,2,0,None
+24,Maryland,240155,3,0,None
+24,Maryland,240155,4,0,None
+24,Maryland,240248,3,0,None
+24,Maryland,240286,2,0,None
+24,Maryland,240309,2,0,None
+24,Maryland,240349,3,0,None
+24,Maryland,240349,4,0,None
+24,Maryland,240350,2,0,None
+24,Maryland,240350,3,0,None
+24,Maryland,240367,3,0,None
+24,Maryland,240376,2,0,None
+24,Maryland,240376,3,0,None
+24,Maryland,240385,2,0,None
+24,Maryland,240405,2,0,None
+24,Maryland,240408,2,0,None
+24,Maryland,240434,2,0,None
+24,Maryland,240468,3,0,None
+24,Maryland,240488,2,0,None
+24,Maryland,240488,3,0,None
+24,Maryland,240494,2,0,None
+24,Maryland,240502,2,0,None
+24,Maryland,240502,3,0,None
+25,Massachusetts,250014,2,0,None
+25,Massachusetts,250022,2,0,None
+25,Massachusetts,250069,2,0,None
+25,Massachusetts,250069,3,0,None
+25,Massachusetts,250069,4,0,None
+25,Massachusetts,250069,5,0,None
+25,Massachusetts,250069,6,0,None
+25,Massachusetts,250069,7,0,None
+25,Massachusetts,250069,8,0,None
+25,Massachusetts,250069,9,0,None
+25,Massachusetts,250069,10,0,None
+25,Massachusetts,250090,3,0,None
+25,Massachusetts,250090,4,0,None
+25,Massachusetts,250110,2,0,None
+25,Massachusetts,250135,2,0,None
+25,Massachusetts,250150,2,0,None
+25,Massachusetts,250150,3,0,None
+25,Massachusetts,250177,2,0,None
+25,Massachusetts,250188,2,0,None
+25,Massachusetts,250203,3,0,None
+25,Massachusetts,250224,1,0,None
+25,Massachusetts,250237,2,0,None
+25,Massachusetts,250274,1,0,None
+25,Massachusetts,250293,2,0,None
+25,Massachusetts,250309,2,0,None
+25,Massachusetts,250309,3,0,None
+25,Massachusetts,250324,2,0,None
+25,Massachusetts,250327,2,0,None
+25,Massachusetts,250347,2,0,None
+25,Massachusetts,250352,4,0,None
+25,Massachusetts,250364,2,0,None
+25,Massachusetts,250378,3,0,None
+25,Massachusetts,250397,3,0,None
+25,Massachusetts,250402,3,0,None
+25,Massachusetts,250402,4,0,None
+25,Massachusetts,250403,1,0,None
+25,Massachusetts,250404,2,0,None
+25,Massachusetts,250404,4,0,None
+25,Massachusetts,250404,5,0,None
+25,Massachusetts,250404,6,0,None
+26,Michigan,260018,3,0,None
+26,Michigan,260022,2,0,None
+26,Michigan,260022,3,0,None
+26,Michigan,260134,2,0,None
+26,Michigan,260145,2,0,None
+26,Michigan,260263,2,0,None
+26,Michigan,260300,2,0,None
+26,Michigan,260310,2,0,None
+26,Michigan,260499,3,0,None
+26,Michigan,260508,2,0,None
+26,Michigan,260646,2,0,None
+26,Michigan,260646,3,0,None
+26,Michigan,260662,2,0,None
+26,Michigan,260761,2,0,None
+26,Michigan,260761,3,0,None
+26,Michigan,260761,4,0,None
+26,Michigan,260774,2,0,None
+26,Michigan,260780,2,0,None
+26,Michigan,260788,2,0,None
+26,Michigan,260791,3,0,None
+26,Michigan,260791,4,0,None
+26,Michigan,260791,5,0,None
+26,Michigan,260829,2,0,None
+26,Michigan,260907,2,0,None
+26,Michigan,260928,2,0,None
+26,Michigan,260933,2,0,None
+26,Michigan,260934,2,0,None
+26,Michigan,261002,2,0,None
+26,Michigan,261002,3,0,None
+26,Michigan,261055,2,0,None
+26,Michigan,261065,2,0,None
+27,Minnesota,270054,2,0,None
+27,Minnesota,270111,1,0,None
+27,Minnesota,270120,1,0,None
+27,Minnesota,270156,3,0,None
+27,Minnesota,270157,2,0,None
+27,Minnesota,270157,3,0,None
+27,Minnesota,270157,4,0,None
+27,Minnesota,270291,1,0,None
+27,Minnesota,270341,2,0,None
+27,Minnesota,270346,2,0,None
+27,Minnesota,270391,2,0,None
+27,Minnesota,270391,3,0,None
+27,Minnesota,270391,4,0,None
+27,Minnesota,270399,2,0,None
+27,Minnesota,270455,3,0,None
+27,Minnesota,270455,4,0,None
+28,Mississippi,280081,2,0,None
+28,Mississippi,280082,2,0,None
+28,Mississippi,280130,3,0,None
+28,Mississippi,280155,3,0,None
+28,Mississippi,280168,2,0,None
+28,Mississippi,280179,1,0,None
+28,Mississippi,280330,2,0,None
+28,Mississippi,280330,3,0,None
+28,Mississippi,280362,2,0,None
+28,Mississippi,280432,2,0,None
+28,Mississippi,280432,3,0,None
+28,Mississippi,280432,4,0,None
+28,Mississippi,280436,2,0,None
+29,Missouri,290029,2,0,None
+29,Missouri,290040,2,0,None
+29,Missouri,290088,3,0,None
+29,Missouri,290143,2,0,None
+29,Missouri,290183,2,0,None
+29,Missouri,290183,3,0,None
+29,Missouri,290198,2,0,None
+29,Missouri,290198,3,42,"Other Working Vehicle (Not Construction, Maintenance, Utility, Police, Fire, or EMS Vehicle)"
+29,Missouri,290367,2,0,None
+29,Missouri,290467,2,0,None
+29,Missouri,290480,4,0,None
+29,Missouri,290543,2,0,None
+29,Missouri,290553,2,0,None
+29,Missouri,290559,1,0,None
+29,Missouri,290562,3,0,None
+29,Missouri,290562,4,0,None
+29,Missouri,290580,2,0,None
+29,Missouri,290617,2,0,None
+29,Missouri,290676,3,0,None
+29,Missouri,290676,4,0,None
+29,Missouri,290676,5,0,None
+29,Missouri,290722,3,0,None
+29,Missouri,290728,2,0,None
+29,Missouri,290849,1,0,None
+29,Missouri,290887,2,0,None
+29,Missouri,290913,3,0,None
+29,Missouri,290913,4,0,None
+29,Missouri,290913,5,0,None
+30,Montana,300014,3,0,None
+30,Montana,300049,2,0,None
+30,Montana,300195,2,0,None
+30,Montana,300195,3,0,None
+30,Montana,300195,4,0,None
+30,Montana,300195,5,0,None
+30,Montana,300195,6,0,None
+30,Montana,300205,2,0,None
+30,Montana,300207,3,0,None
+30,Montana,300211,2,0,None
+31,Nebraska,310194,2,0,None
+31,Nebraska,310194,3,0,None
+32,Nevada,320019,2,0,None
+32,Nevada,320050,2,42,"Other Working Vehicle (Not Construction, Maintenance, Utility, Police, Fire, or EMS Vehicle)"
+32,Nevada,320053,2,0,None
+32,Nevada,320053,3,0,None
+32,Nevada,320055,3,0,None
+32,Nevada,320058,2,0,None
+32,Nevada,320070,2,0,None
+32,Nevada,320070,3,0,None
+32,Nevada,320113,2,0,None
+32,Nevada,320155,2,0,None
+32,Nevada,320172,2,0,None
+32,Nevada,320181,3,0,None
+32,Nevada,320203,3,0,None
+32,Nevada,320223,2,0,None
+32,Nevada,320256,2,0,None
+33,New Hampshire,330039,2,0,None
+33,New Hampshire,330039,3,0,None
+33,New Hampshire,330067,2,0,None
+34,New Jersey,340005,2,0,None
+34,New Jersey,340005,3,0,None
+34,New Jersey,340021,2,0,None
+34,New Jersey,340028,2,0,None
+34,New Jersey,340028,3,0,None
+34,New Jersey,340067,2,0,None
+34,New Jersey,340117,2,0,None
+34,New Jersey,340123,2,0,None
+34,New Jersey,340126,2,0,None
+34,New Jersey,340126,3,0,None
+34,New Jersey,340138,2,0,None
+34,New Jersey,340144,2,0,None
+34,New Jersey,340158,2,0,None
+34,New Jersey,340160,2,0,None
+34,New Jersey,340160,3,999,Reported as Unknown
+34,New Jersey,340162,2,0,None
+34,New Jersey,340162,3,0,None
+34,New Jersey,340171,3,0,None
+34,New Jersey,340201,2,0,None
+34,New Jersey,340214,2,0,None
+34,New Jersey,340219,2,0,None
+34,New Jersey,340264,2,0,None
+34,New Jersey,340270,3,0,None
+34,New Jersey,340270,4,0,None
+34,New Jersey,340279,2,0,None
+34,New Jersey,340279,3,0,None
+34,New Jersey,340289,1,0,None
+34,New Jersey,340322,3,0,None
+34,New Jersey,340322,4,0,None
+34,New Jersey,340357,2,0,None
+34,New Jersey,340409,2,0,None
+34,New Jersey,340409,3,0,None
+34,New Jersey,340411,2,0,None
+34,New Jersey,340411,3,0,None
+34,New Jersey,340411,4,0,None
+34,New Jersey,340411,5,0,None
+34,New Jersey,340432,2,0,None
+34,New Jersey,340432,3,0,None
+34,New Jersey,340432,4,0,None
+34,New Jersey,340432,5,0,None
+34,New Jersey,340432,6,0,None
+34,New Jersey,340432,7,0,None
+34,New Jersey,340432,8,0,None
+34,New Jersey,340432,9,0,None
+34,New Jersey,340454,2,0,None
+34,New Jersey,340458,2,0,None
+34,New Jersey,340458,3,0,None
+34,New Jersey,340458,4,0,None
+34,New Jersey,340491,2,0,None
+34,New Jersey,340491,3,0,None
+34,New Jersey,340537,2,0,None
+34,New Jersey,340566,3,0,None
+34,New Jersey,340571,2,0,None
+34,New Jersey,340584,2,0,None
+34,New Jersey,340593,4,0,None
+34,New Jersey,340593,5,0,None
+34,New Jersey,340633,2,0,None
+34,New Jersey,340669,2,0,None
+34,New Jersey,340669,3,0,None
+34,New Jersey,340669,4,0,None
+34,New Jersey,340669,5,0,None
+34,New Jersey,340677,2,0,None
+35,New Mexico,350118,3,0,None
+35,New Mexico,350118,4,0,None
+35,New Mexico,350124,3,0,None
+35,New Mexico,350124,4,0,None
+35,New Mexico,350209,2,0,None
+35,New Mexico,350209,3,0,None
+35,New Mexico,350316,2,0,None
+35,New Mexico,350378,2,0,None
+35,New Mexico,350378,3,0,None
+35,New Mexico,350378,4,0,None
+35,New Mexico,350388,3,0,None
+35,New Mexico,350397,3,42,"Other Working Vehicle (Not Construction, Maintenance, Utility, Police, Fire, or EMS Vehicle)"
+35,New Mexico,350411,2,0,None
+36,New York,360005,2,0,None
+36,New York,360005,3,0,None
+36,New York,360021,3,0,None
+36,New York,360021,4,0,None
+36,New York,360035,3,0,None
+36,New York,360037,2,0,None
+36,New York,360049,2,0,None
+36,New York,360059,2,0,None
+36,New York,360077,2,0,None
+36,New York,360121,2,0,None
+36,New York,360131,2,0,None
+36,New York,360169,2,0,None
+36,New York,360179,2,0,None
+36,New York,360179,3,0,None
+36,New York,360189,3,0,None
+36,New York,360217,3,0,None
+36,New York,360217,4,0,None
+36,New York,360224,3,0,None
+36,New York,360228,2,0,None
+36,New York,360228,3,0,None
+36,New York,360242,2,0,None
+36,New York,360242,3,0,None
+36,New York,360242,4,0,None
+36,New York,360288,2,0,None
+36,New York,360288,3,0,None
+36,New York,360288,4,0,None
+36,New York,360288,5,0,None
+36,New York,360288,6,0,None
+36,New York,360288,7,0,None
+36,New York,360288,8,0,None
+36,New York,360296,2,0,None
+36,New York,360296,3,0,None
+36,New York,360296,4,0,None
+36,New York,360303,3,0,None
+36,New York,360303,4,0,None
+36,New York,360351,3,0,None
+36,New York,360372,2,0,None
+36,New York,360378,3,0,None
+36,New York,360378,4,0,None
+36,New York,360387,2,0,None
+36,New York,360390,2,0,None
+36,New York,360399,3,0,None
+36,New York,360399,4,0,None
+36,New York,360399,5,0,None
+36,New York,360400,2,0,None
+36,New York,360412,2,0,None
+36,New York,360425,2,0,None
+36,New York,360479,2,0,None
+36,New York,360488,3,0,None
+36,New York,360496,2,0,None
+36,New York,360546,2,0,None
+36,New York,360546,3,0,None
+36,New York,360546,4,0,None
+36,New York,360576,2,0,None
+36,New York,360582,2,0,None
+36,New York,360582,4,0,None
+36,New York,360582,5,0,None
+36,New York,360582,6,0,None
+36,New York,360582,7,0,None
+36,New York,360582,8,0,None
+36,New York,360605,4,0,None
+36,New York,360672,3,0,None
+36,New York,360672,4,0,None
+36,New York,360691,2,0,None
+36,New York,360691,3,0,None
+36,New York,360691,4,0,None
+36,New York,360691,5,0,None
+36,New York,360691,6,0,None
+36,New York,360691,7,0,None
+36,New York,360691,8,0,None
+36,New York,360691,9,0,None
+36,New York,360691,10,0,None
+36,New York,360691,11,0,None
+36,New York,360691,12,0,None
+36,New York,360691,13,0,None
+36,New York,360691,14,0,None
+36,New York,360736,2,0,None
+36,New York,360745,3,0,None
+36,New York,360745,4,0,None
+36,New York,360745,5,0,None
+36,New York,360745,6,0,None
+36,New York,360745,7,0,None
+36,New York,360750,2,0,None
+36,New York,360750,3,0,None
+36,New York,360787,2,0,None
+36,New York,360787,3,0,None
+36,New York,360787,4,0,None
+36,New York,360790,3,0,None
+36,New York,360799,3,0,None
+36,New York,360806,2,0,None
+36,New York,360806,3,0,None
+36,New York,360883,2,0,None
+36,New York,360883,3,0,None
+36,New York,360929,2,0,None
+36,New York,360950,2,0,None
+36,New York,360950,3,0,None
+36,New York,360956,2,0,None
+36,New York,360964,3,0,None
+36,New York,360964,4,0,None
+36,New York,360992,1,0,None
+36,New York,361018,3,0,None
+36,New York,361019,2,0,None
+36,New York,361020,2,0,None
+36,New York,361047,2,0,None
+36,New York,361055,2,0,None
+36,New York,361086,1,0,None
+36,New York,361098,1,0,None
+36,New York,361100,1,0,None
+36,New York,361102,1,0,None
+36,New York,361105,1,0,None
+36,New York,361123,2,0,None
+36,New York,361123,3,0,None
+36,New York,361123,4,0,None
+36,New York,361129,3,0,None
+36,New York,361129,4,0,None
+37,North Carolina,370002,2,0,None
+37,North Carolina,370054,2,0,None
+37,North Carolina,370068,3,0,None
+37,North Carolina,370083,2,0,None
+37,North Carolina,370104,3,0,None
+37,North Carolina,370126,2,0,None
+37,North Carolina,370188,2,0,None
+37,North Carolina,370188,3,0,None
+37,North Carolina,370235,2,0,None
+37,North Carolina,370235,3,0,None
+37,North Carolina,370284,2,0,None
+37,North Carolina,370337,2,0,None
+37,North Carolina,370369,3,0,None
+37,North Carolina,370457,1,0,None
+37,North Carolina,370534,3,0,None
+37,North Carolina,370556,2,0,None
+37,North Carolina,370556,3,0,None
+37,North Carolina,370556,4,0,None
+37,North Carolina,370654,2,0,None
+37,North Carolina,370700,2,0,None
+37,North Carolina,370710,2,0,None
+37,North Carolina,370769,2,0,None
+37,North Carolina,370775,1,0,None
+37,North Carolina,370775,2,0,None
+37,North Carolina,370869,3,0,None
+37,North Carolina,370869,4,0,None
+37,North Carolina,370869,5,0,None
+37,North Carolina,370897,1,0,None
+37,North Carolina,370913,2,0,None
+37,North Carolina,370951,2,0,None
+37,North Carolina,370993,1,0,None
+37,North Carolina,370995,3,0,None
+37,North Carolina,371058,3,0,None
+37,North Carolina,371065,2,0,None
+37,North Carolina,371166,1,0,None
+37,North Carolina,371187,2,0,None
+37,North Carolina,371264,1,0,None
+37,North Carolina,371267,4,0,None
+37,North Carolina,371292,2,0,None
+37,North Carolina,371292,3,0,None
+37,North Carolina,371292,4,0,None
+37,North Carolina,371292,5,0,None
+37,North Carolina,371292,6,0,None
+37,North Carolina,371292,7,0,None
+37,North Carolina,371292,8,0,None
+37,North Carolina,371292,9,0,None
+37,North Carolina,371292,10,0,None
+37,North Carolina,371311,2,0,None
+37,North Carolina,371336,2,0,None
+37,North Carolina,371350,1,0,None
+37,North Carolina,371482,2,0,None
+37,North Carolina,371494,2,41,"Police, Fire, or EMS Vehicle Working at the Scene of an Emergency or Performing Other Traffic Control Activities"
+37,North Carolina,371494,3,41,"Police, Fire, or EMS Vehicle Working at the Scene of an Emergency or Performing Other Traffic Control Activities"
+37,North Carolina,371494,4,41,"Police, Fire, or EMS Vehicle Working at the Scene of an Emergency or Performing Other Traffic Control Activities"
+37,North Carolina,371494,5,41,"Police, Fire, or EMS Vehicle Working at the Scene of an Emergency or Performing Other Traffic Control Activities"
+37,North Carolina,371512,2,0,None
+39,Ohio,390056,3,0,None
+39,Ohio,390056,4,0,None
+39,Ohio,390056,5,0,None
+39,Ohio,390056,6,0,None
+39,Ohio,390056,7,0,None
+39,Ohio,390057,2,0,None
+39,Ohio,390057,3,0,None
+39,Ohio,390057,4,0,None
+39,Ohio,390067,3,0,None
+39,Ohio,390098,2,0,None
+39,Ohio,390104,2,42,"Other Working Vehicle (Not Construction, Maintenance, Utility, Police, Fire, or EMS Vehicle)"
+39,Ohio,390106,2,0,None
+39,Ohio,390122,1,0,None
+39,Ohio,390122,3,0,None
+39,Ohio,390154,3,0,None
+39,Ohio,390154,4,0,None
+39,Ohio,390154,5,0,None
+39,Ohio,390154,6,0,None
+39,Ohio,390235,2,0,None
+39,Ohio,390265,2,0,None
+39,Ohio,390278,2,0,None
+39,Ohio,390289,2,0,None
+39,Ohio,390290,2,0,None
+39,Ohio,390293,2,0,None
+39,Ohio,390297,2,0,None
+39,Ohio,390318,2,0,None
+39,Ohio,390322,2,0,None
+39,Ohio,390324,2,0,None
+39,Ohio,390324,3,0,None
+39,Ohio,390342,2,0,None
+39,Ohio,390366,3,0,None
+39,Ohio,390370,2,0,None
+39,Ohio,390370,3,0,None
+39,Ohio,390370,4,0,None
+39,Ohio,390418,1,0,None
+39,Ohio,390418,2,0,None
+39,Ohio,390433,2,0,None
+39,Ohio,390453,2,0,None
+39,Ohio,390454,2,0,None
+39,Ohio,390454,3,0,None
+39,Ohio,390471,3,0,None
+39,Ohio,390494,3,0,None
+39,Ohio,390517,2,0,None
+39,Ohio,390556,4,0,None
+39,Ohio,390623,1,0,None
+39,Ohio,390624,3,0,None
+39,Ohio,390624,4,0,None
+39,Ohio,390634,1,0,None
+39,Ohio,390675,2,0,None
+39,Ohio,390688,2,0,None
+39,Ohio,390701,3,0,None
+39,Ohio,390811,2,0,None
+39,Ohio,390811,3,0,None
+39,Ohio,390853,2,0,None
+39,Ohio,390868,3,0,None
+39,Ohio,390873,2,0,None
+39,Ohio,390873,3,0,None
+39,Ohio,390873,4,0,None
+39,Ohio,390895,2,0,None
+39,Ohio,390895,3,0,None
+39,Ohio,390895,4,0,None
+39,Ohio,390895,5,0,None
+39,Ohio,390952,2,0,None
+39,Ohio,390955,2,0,None
+39,Ohio,391004,2,0,None
+39,Ohio,391041,2,0,None
+39,Ohio,391050,2,0,None
+39,Ohio,391051,2,0,None
+39,Ohio,391051,3,0,None
+39,Ohio,391098,2,0,None
+39,Ohio,391129,1,0,None
+39,Ohio,391146,2,0,None
+39,Ohio,391173,2,0,None
+39,Ohio,391254,2,0,None
+39,Ohio,391267,1,0,None
+40,Oklahoma,400265,1,0,None
+40,Oklahoma,400289,1,0,None
+40,Oklahoma,400319,4,0,None
+40,Oklahoma,400329,2,0,None
+40,Oklahoma,400355,2,0,None
+40,Oklahoma,400404,2,0,None
+40,Oklahoma,400471,1,0,None
+40,Oklahoma,400489,4,0,None
+40,Oklahoma,400492,2,0,None
+40,Oklahoma,400596,2,0,None
+40,Oklahoma,400607,2,0,None
+40,Oklahoma,400625,2,0,None
+40,Oklahoma,400635,2,0,None
+41,Oregon,410055,2,0,None
+41,Oregon,410108,3,0,None
+41,Oregon,410134,2,0,None
+41,Oregon,410156,3,0,None
+41,Oregon,410156,4,0,None
+41,Oregon,410166,2,0,None
+41,Oregon,410188,2,0,None
+41,Oregon,410224,2,0,None
+41,Oregon,410224,3,0,None
+41,Oregon,410224,4,0,None
+41,Oregon,410224,5,0,None
+41,Oregon,410224,6,0,None
+41,Oregon,410224,7,0,None
+41,Oregon,410295,2,0,None
+41,Oregon,410399,2,0,None
+41,Oregon,410479,2,0,None
+41,Oregon,410520,2,0,None
+42,Pennsylvania,420061,3,0,None
+42,Pennsylvania,420066,2,0,None
+42,Pennsylvania,420121,2,0,None
+42,Pennsylvania,420174,2,0,None
+42,Pennsylvania,420213,2,0,None
+42,Pennsylvania,420222,2,0,None
+42,Pennsylvania,420231,2,0,None
+42,Pennsylvania,420231,3,0,None
+42,Pennsylvania,420244,5,0,None
+42,Pennsylvania,420252,3,0,None
+42,Pennsylvania,420252,4,0,None
+42,Pennsylvania,420256,2,0,None
+42,Pennsylvania,420269,2,0,None
+42,Pennsylvania,420288,5,0,None
+42,Pennsylvania,420391,2,0,None
+42,Pennsylvania,420391,3,0,None
+42,Pennsylvania,420401,2,0,None
+42,Pennsylvania,420403,2,0,None
+42,Pennsylvania,420403,3,0,None
+42,Pennsylvania,420403,4,0,None
+42,Pennsylvania,420403,5,0,None
+42,Pennsylvania,420405,2,0,None
+42,Pennsylvania,420405,3,0,None
+42,Pennsylvania,420405,4,0,None
+42,Pennsylvania,420455,2,0,None
+42,Pennsylvania,420523,2,0,None
+42,Pennsylvania,420533,3,0,None
+42,Pennsylvania,420535,2,0,None
+42,Pennsylvania,420535,3,0,None
+42,Pennsylvania,420545,2,0,None
+42,Pennsylvania,420619,2,0,None
+42,Pennsylvania,420682,3,0,None
+42,Pennsylvania,420685,2,0,None
+42,Pennsylvania,420691,3,0,None
+42,Pennsylvania,420710,2,0,None
+42,Pennsylvania,420733,2,0,None
+42,Pennsylvania,420745,2,0,None
+42,Pennsylvania,420746,2,0,None
+42,Pennsylvania,420766,2,0,None
+42,Pennsylvania,420766,3,0,None
+42,Pennsylvania,420802,2,42,"Other Working Vehicle (Not Construction, Maintenance, Utility, Police, Fire, or EMS Vehicle)"
+42,Pennsylvania,420802,3,0,None
+42,Pennsylvania,420802,4,42,"Other Working Vehicle (Not Construction, Maintenance, Utility, Police, Fire, or EMS Vehicle)"
+42,Pennsylvania,420802,5,0,None
+42,Pennsylvania,420807,2,0,None
+42,Pennsylvania,420807,3,0,None
+42,Pennsylvania,420807,4,0,None
+42,Pennsylvania,420827,2,0,None
+42,Pennsylvania,420910,2,0,None
+42,Pennsylvania,420913,2,0,None
+42,Pennsylvania,420929,2,0,None
+42,Pennsylvania,420929,3,0,None
+42,Pennsylvania,420971,2,0,None
+42,Pennsylvania,420971,3,0,None
+42,Pennsylvania,420999,3,0,None
+42,Pennsylvania,420999,4,0,None
+42,Pennsylvania,420999,5,0,None
+42,Pennsylvania,421022,2,0,None
+42,Pennsylvania,421028,2,0,None
+42,Pennsylvania,421038,2,0,None
+42,Pennsylvania,421038,3,0,None
+42,Pennsylvania,421038,4,0,None
+42,Pennsylvania,421038,5,0,None
+42,Pennsylvania,421046,2,0,None
+42,Pennsylvania,421048,2,0,None
+42,Pennsylvania,421079,2,0,None
+42,Pennsylvania,421102,2,0,None
+42,Pennsylvania,421127,2,42,"Other Working Vehicle (Not Construction, Maintenance, Utility, Police, Fire, or EMS Vehicle)"
+42,Pennsylvania,421139,3,0,None
+42,Pennsylvania,421150,2,0,None
+44,Rhode Island,440055,2,0,None
+45,South Carolina,450005,1,0,None
+45,South Carolina,450085,1,0,None
+45,South Carolina,450110,1,0,None
+45,South Carolina,450110,2,0,None
+45,South Carolina,450142,2,0,None
+45,South Carolina,450166,2,0,None
+45,South Carolina,450166,3,0,None
+45,South Carolina,450169,1,0,None
+45,South Carolina,450185,1,0,None
+45,South Carolina,450192,1,0,None
+45,South Carolina,450204,2,0,None
+45,South Carolina,450204,3,0,None
+45,South Carolina,450235,2,0,None
+45,South Carolina,450316,1,0,None
+45,South Carolina,450317,1,0,None
+45,South Carolina,450344,2,0,None
+45,South Carolina,450344,3,0,None
+45,South Carolina,450346,2,0,None
+45,South Carolina,450365,5,0,None
+45,South Carolina,450365,6,0,None
+45,South Carolina,450405,1,0,None
+45,South Carolina,450411,1,0,None
+45,South Carolina,450464,3,0,None
+45,South Carolina,450464,4,0,None
+45,South Carolina,450464,5,0,None
+45,South Carolina,450464,6,0,None
+45,South Carolina,450464,7,0,None
+45,South Carolina,450513,2,0,None
+45,South Carolina,450571,2,0,None
+45,South Carolina,450581,2,0,None
+45,South Carolina,450587,3,0,None
+45,South Carolina,450587,4,0,None
+45,South Carolina,450587,5,0,None
+45,South Carolina,450707,1,0,None
+45,South Carolina,450766,1,0,None
+45,South Carolina,450827,1,0,None
+45,South Carolina,450854,1,0,None
+45,South Carolina,450871,1,0,None
+45,South Carolina,450881,1,0,None
+45,South Carolina,450903,3,0,None
+45,South Carolina,450984,2,0,None
+45,South Carolina,451000,3,0,None
+45,South Carolina,451035,2,0,None
+45,South Carolina,451109,2,0,None
+45,South Carolina,451109,3,0,None
+45,South Carolina,451109,5,0,None
+46,South Dakota,460014,1,0,None
+46,South Dakota,460038,2,0,None
+46,South Dakota,460072,3,0,None
+46,South Dakota,460083,3,0,None
+46,South Dakota,460100,2,0,None
+46,South Dakota,460100,3,0,None
+46,South Dakota,460130,2,0,None
+46,South Dakota,460130,3,0,None
+47,Tennessee,470021,2,0,None
+47,Tennessee,470021,3,0,None
+47,Tennessee,470026,3,0,None
+47,Tennessee,470054,2,0,None
+47,Tennessee,470202,2,0,None
+47,Tennessee,470214,2,0,None
+47,Tennessee,470214,3,0,None
+47,Tennessee,470214,4,0,None
+47,Tennessee,470214,5,0,None
+47,Tennessee,470231,2,0,None
+47,Tennessee,470267,2,0,None
+47,Tennessee,470267,3,0,None
+47,Tennessee,470267,4,0,None
+47,Tennessee,470304,2,0,None
+47,Tennessee,470322,2,0,None
+47,Tennessee,470381,2,0,None
+47,Tennessee,470550,2,0,None
+47,Tennessee,470558,3,0,None
+47,Tennessee,470634,2,0,None
+47,Tennessee,470771,2,0,None
+47,Tennessee,470771,3,0,None
+47,Tennessee,470801,2,0,None
+47,Tennessee,470839,3,0,None
+47,Tennessee,470839,4,0,None
+47,Tennessee,470869,2,0,None
+47,Tennessee,470871,3,0,None
+47,Tennessee,470921,2,0,None
+47,Tennessee,470921,3,0,None
+47,Tennessee,470921,4,0,None
+47,Tennessee,470921,5,0,None
+47,Tennessee,470921,6,0,None
+47,Tennessee,470921,7,0,None
+47,Tennessee,470923,2,0,None
+47,Tennessee,470947,2,0,None
+47,Tennessee,470947,3,0,None
+47,Tennessee,470947,4,0,None
+47,Tennessee,470947,5,0,None
+47,Tennessee,470947,6,0,None
+47,Tennessee,470956,1,0,None
+47,Tennessee,470956,2,0,None
+47,Tennessee,470995,2,0,None
+47,Tennessee,471009,2,0,None
+47,Tennessee,471033,1,0,None
+47,Tennessee,471062,2,0,None
+47,Tennessee,471109,2,0,None
+47,Tennessee,471147,2,0,None
+47,Tennessee,471169,2,0,None
+47,Tennessee,471185,1,0,None
+47,Tennessee,471242,2,0,None
+48,Texas,480064,2,0,None
+48,Texas,480096,2,0,None
+48,Texas,480127,3,0,None
+48,Texas,480174,2,0,None
+48,Texas,480215,3,0,None
+48,Texas,480226,3,0,None
+48,Texas,480235,2,0,None
+48,Texas,480235,3,0,None
+48,Texas,480235,4,0,None
+48,Texas,480247,2,0,None
+48,Texas,480277,3,0,None
+48,Texas,480277,4,0,None
+48,Texas,480298,2,0,None
+48,Texas,480329,2,0,None
+48,Texas,480396,2,0,None
+48,Texas,480397,2,0,None
+48,Texas,480441,3,0,None
+48,Texas,480450,2,0,None
+48,Texas,480468,2,0,None
+48,Texas,480472,3,0,None
+48,Texas,480472,4,0,None
+48,Texas,480529,2,0,None
+48,Texas,480616,2,0,None
+48,Texas,480622,2,0,None
+48,Texas,480636,2,0,None
+48,Texas,480675,2,0,None
+48,Texas,480741,3,0,None
+48,Texas,480793,2,0,None
+48,Texas,480853,2,0,None
+48,Texas,480882,2,0,None
+48,Texas,480882,3,0,None
+48,Texas,480945,2,0,None
+48,Texas,480952,3,0,None
+48,Texas,480966,2,0,None
+48,Texas,481026,2,0,None
+48,Texas,481032,2,0,None
+48,Texas,481034,2,0,None
+48,Texas,481039,3,0,None
+48,Texas,481076,3,0,None
+48,Texas,481115,3,0,None
+48,Texas,481119,2,0,None
+48,Texas,481126,2,0,None
+48,Texas,481216,2,0,None
+48,Texas,481220,2,0,None
+48,Texas,481224,3,0,None
+48,Texas,481224,4,0,None
+48,Texas,481238,2,0,None
+48,Texas,481242,2,0,None
+48,Texas,481248,2,0,None
+48,Texas,481248,3,0,None
+48,Texas,481249,2,0,None
+48,Texas,481270,2,0,None
+48,Texas,481373,3,0,None
+48,Texas,481425,3,0,None
+48,Texas,481435,3,0,None
+48,Texas,481467,2,0,None
+48,Texas,481482,1,0,None
+48,Texas,481523,2,0,None
+48,Texas,481523,3,0,None
+48,Texas,481523,4,0,None
+48,Texas,481556,2,0,None
+48,Texas,481573,3,0,None
+48,Texas,481623,2,0,None
+48,Texas,481630,2,0,None
+48,Texas,481640,3,0,None
+48,Texas,481669,2,0,None
+48,Texas,481697,2,0,None
+48,Texas,481707,2,0,None
+48,Texas,481707,3,0,None
+48,Texas,481745,2,0,None
+48,Texas,481745,3,0,None
+48,Texas,481745,4,0,None
+48,Texas,481745,5,0,None
+48,Texas,481829,3,0,None
+48,Texas,481829,4,0,None
+48,Texas,481838,3,0,None
+48,Texas,481838,4,0,None
+48,Texas,481848,3,0,None
+48,Texas,481858,2,0,None
+48,Texas,481859,2,0,None
+48,Texas,481890,2,0,None
+48,Texas,481942,2,0,None
+48,Texas,481944,3,0,None
+48,Texas,481948,2,0,None
+48,Texas,481991,4,0,None
+48,Texas,482031,2,0,None
+48,Texas,482032,2,0,None
+48,Texas,482038,2,0,None
+48,Texas,482057,2,0,None
+48,Texas,482076,3,0,None
+48,Texas,482122,2,0,None
+48,Texas,482122,3,0,None
+48,Texas,482192,2,0,None
+48,Texas,482251,2,0,None
+48,Texas,482252,2,0,None
+48,Texas,482262,2,0,None
+48,Texas,482265,2,0,None
+48,Texas,482265,3,0,None
+48,Texas,482300,2,0,None
+48,Texas,482313,2,0,None
+48,Texas,482319,2,0,None
+48,Texas,482365,2,0,None
+48,Texas,482373,2,0,None
+48,Texas,482397,3,0,None
+48,Texas,482414,3,0,None
+48,Texas,482433,3,0,None
+48,Texas,482433,4,0,None
+48,Texas,482464,7,0,None
+48,Texas,482482,2,0,None
+48,Texas,482498,2,0,None
+48,Texas,482514,2,0,None
+48,Texas,482516,2,0,None
+48,Texas,482524,3,0,None
+48,Texas,482524,4,0,None
+48,Texas,482615,2,0,None
+48,Texas,482615,3,0,None
+48,Texas,482628,2,0,None
+48,Texas,482628,3,0,None
+48,Texas,482641,2,0,None
+48,Texas,482675,2,0,None
+48,Texas,482687,2,0,None
+48,Texas,482780,2,0,None
+48,Texas,482813,2,0,None
+48,Texas,482813,3,0,None
+48,Texas,482823,2,0,None
+48,Texas,482857,6,0,None
+48,Texas,482911,3,0,None
+48,Texas,482934,2,0,None
+48,Texas,482948,2,0,None
+48,Texas,482964,2,0,None
+48,Texas,483018,2,0,None
+48,Texas,483031,2,0,None
+48,Texas,483104,2,0,None
+48,Texas,483138,2,0,None
+48,Texas,483138,3,0,None
+48,Texas,483155,2,0,None
+48,Texas,483226,2,0,None
+48,Texas,483226,3,0,None
+48,Texas,483256,2,0,None
+48,Texas,483256,3,0,None
+48,Texas,483256,4,0,None
+48,Texas,483258,2,0,None
+48,Texas,483346,2,0,None
+48,Texas,483359,2,0,None
+48,Texas,483372,2,0,None
+48,Texas,483409,2,0,None
+48,Texas,483434,3,0,None
+48,Texas,483442,2,0,None
+48,Texas,483442,3,0,None
+48,Texas,483489,2,0,None
+48,Texas,483493,2,0,None
+48,Texas,483573,2,0,None
+48,Texas,483573,3,0,None
+48,Texas,483598,2,0,None
+48,Texas,483598,3,0,None
+48,Texas,483599,2,0,None
+48,Texas,483599,3,0,None
+48,Texas,483599,4,0,None
+48,Texas,483599,5,0,None
+48,Texas,483642,6,0,None
+48,Texas,483642,7,0,None
+48,Texas,483677,2,0,None
+48,Texas,483690,2,0,None
+48,Texas,483690,3,0,None
+48,Texas,483739,2,0,None
+48,Texas,483739,3,0,None
+48,Texas,483842,2,0,None
+48,Texas,483867,2,0,None
+48,Texas,483901,2,0,None
+48,Texas,483919,3,0,None
+48,Texas,483979,2,0,None
+48,Texas,483982,2,0,None
+48,Texas,484052,2,0,None
+48,Texas,484061,2,0,None
+48,Texas,484083,2,0,None
+48,Texas,484103,2,0,None
+49,Utah,490077,2,0,None
+49,Utah,490077,3,0,None
+49,Utah,490093,2,0,None
+49,Utah,490122,3,0,None
+49,Utah,490137,2,0,None
+49,Utah,490137,3,0,None
+49,Utah,490218,2,0,None
+49,Utah,490222,2,0,None
+49,Utah,490277,3,0,None
+49,Utah,490287,2,0,None
+51,Virginia,510007,2,0,None
+51,Virginia,510041,3,0,None
+51,Virginia,510085,2,0,None
+51,Virginia,510146,2,0,None
+51,Virginia,510156,2,0,None
+51,Virginia,510194,2,0,None
+51,Virginia,510197,3,0,None
+51,Virginia,510217,2,0,None
+51,Virginia,510305,2,0,None
+51,Virginia,510330,2,0,None
+51,Virginia,510330,3,0,None
+51,Virginia,510330,4,0,None
+51,Virginia,510330,5,0,None
+51,Virginia,510330,6,0,None
+51,Virginia,510339,3,0,None
+51,Virginia,510339,4,0,None
+51,Virginia,510339,5,0,None
+51,Virginia,510396,3,0,None
+51,Virginia,510396,4,0,None
+51,Virginia,510414,2,0,None
+51,Virginia,510414,3,0,None
+51,Virginia,510416,3,0,None
+51,Virginia,510417,2,0,None
+51,Virginia,510462,2,0,None
+51,Virginia,510472,2,0,None
+51,Virginia,510481,2,0,None
+51,Virginia,510487,2,0,None
+51,Virginia,510492,2,0,None
+51,Virginia,510494,2,0,None
+51,Virginia,510494,3,0,None
+51,Virginia,510519,1,0,None
+51,Virginia,510561,2,0,None
+51,Virginia,510562,2,0,None
+51,Virginia,510562,3,0,None
+51,Virginia,510598,2,0,None
+51,Virginia,510598,3,0,None
+51,Virginia,510598,4,0,None
+51,Virginia,510609,2,0,None
+51,Virginia,510613,3,0,None
+51,Virginia,510619,2,0,None
+51,Virginia,510619,3,0,None
+51,Virginia,510633,2,0,None
+51,Virginia,510633,3,0,None
+51,Virginia,510633,4,0,None
+51,Virginia,510633,5,0,None
+51,Virginia,510678,2,0,None
+51,Virginia,510678,3,0,None
+51,Virginia,510695,2,0,None
+51,Virginia,510740,2,0,None
+51,Virginia,510746,2,0,None
+51,Virginia,510762,2,0,None
+51,Virginia,510762,3,0,None
+51,Virginia,510762,4,0,None
+51,Virginia,510762,5,0,None
+51,Virginia,510766,2,0,None
+51,Virginia,510815,2,0,None
+51,Virginia,510815,3,0,None
+51,Virginia,510820,2,0,None
+51,Virginia,510841,2,0,None
+51,Virginia,510863,2,0,None
+53,Washington,530069,2,0,None
+53,Washington,530124,2,0,None
+53,Washington,530124,3,0,None
+53,Washington,530137,3,0,None
+53,Washington,530146,2,0,None
+53,Washington,530163,3,0,None
+53,Washington,530176,2,0,None
+53,Washington,530260,2,0,None
+53,Washington,530365,3,0,None
+53,Washington,530387,2,0,None
+53,Washington,530392,3,0,None
+53,Washington,530392,4,0,None
+53,Washington,530400,2,0,None
+53,Washington,530433,2,0,None
+53,Washington,530446,2,0,None
+53,Washington,530518,2,0,None
+53,Washington,530518,3,0,None
+53,Washington,530536,3,0,None
+53,Washington,530543,3,0,None
+53,Washington,530585,2,0,None
+53,Washington,530611,2,0,None
+54,West Virginia,540027,2,0,None
+54,West Virginia,540034,2,0,None
+54,West Virginia,540116,2,0,None
+54,West Virginia,540245,2,0,None
+54,West Virginia,540251,3,0,None
+55,Wisconsin,550004,2,0,None
+55,Wisconsin,550004,3,0,None
+55,Wisconsin,550098,2,0,None
+55,Wisconsin,550193,3,0,None
+55,Wisconsin,550219,2,0,None
+55,Wisconsin,550219,3,0,None
+55,Wisconsin,550252,2,0,None
+55,Wisconsin,550273,3,0,None
+55,Wisconsin,550275,1,0,None
+55,Wisconsin,550303,2,0,None
+55,Wisconsin,550389,2,0,None
+55,Wisconsin,550389,3,0,None
+55,Wisconsin,550391,2,0,None
+55,Wisconsin,550401,4,0,None
+55,Wisconsin,550438,2,0,None
+55,Wisconsin,550490,2,0,None
+55,Wisconsin,550498,3,0,None
+55,Wisconsin,550503,2,0,None
+55,Wisconsin,550503,3,0,None
+55,Wisconsin,550508,2,0,None
+55,Wisconsin,550539,2,0,None
+55,Wisconsin,550542,2,0,None
+56,Wyoming,560032,2,0,None
+56,Wyoming,560032,3,0,None
+56,Wyoming,560032,4,0,None
+56,Wyoming,560060,2,0,None
+56,Wyoming,560086,2,0,None
+56,Wyoming,560086,3,0,None
