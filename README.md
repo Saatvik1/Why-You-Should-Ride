@@ -91,7 +91,6 @@
   - Will go from 2021 to 2019, starting from the largest data sets first (to keep things consistent).
     - First step will to be take the datasets, import them into a dataframe, get rid of unnecessary columns. Repeat for all the datasets that year, then merge them (need to figure how). At the end will have 3 dataframes for all 3 years, and from there we can start cleaning up the data. 
 - Plan MySQL DB structure. Will be using Planet Scale as MySQL DB provider.
-  - Make E-R diagram, and write out table properties, and then creation queries.
 - Make any changes to datasets before migration.
 - Migrate
 - Perform EDA using SQL queries with python.
