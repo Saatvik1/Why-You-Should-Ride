@@ -60,7 +60,7 @@
       - IMPACT1
       - DEFORMEDNAME
       - L_STATUSNAME
-      - L_COMPLNAME (valid liscence for class m for example)
+      - L_COMPLNAME (valid license for class m for example)
       - DR_HGT
       - DR_WGT
       - VSPD_LIMNAME
@@ -86,19 +86,30 @@
       - DRINKINGNAME
       - ALC_RES
       - ALC_RESNAME
-- Download the data, and perform data cleaning. Prepare it for migration to database. Will be done using python and data sci libraries such as Pandas, numpy, etc.
-  - Using 2019, 2020, 2021 data. Using anaconda jupyter nb on local device.
+- Download the data, and perform data cleaning. Prepare it for database migration. This will be done using Python and data science libraries such as Pandas, numpy, etc.
+  - Using 2019, 2020, and 2021 data and using Anaconda Jupyter nb on a local device.
   - Will go from 2021 to 2019, starting from the largest data sets first (to keep things consistent).
-    - First step will to be take the datasets, import them into a dataframe, get rid of unnecessary columns. Repeat for all the datasets that year, then merge them (need to figure how). At the end will have 3 dataframes for all 3 years, and from there we can start cleaning up the data. 
-- Plan MySQL DB structure. Will be using Planet Scale as MySQL DB provider.
+    - The first step will to be take the datasets, import them into a dataframe, and get rid of unnecessary columns. Repeat for all the datasets that year, then merge them (need to figure out how). At the end will have 3 dataframes for all 3 years, and from there we can start cleaning up the data. 
+- Plan MySQL DB structure. Will be using Planet Scale as a MySQL DB provider.
+  - Will merge all the year's accidents so that one table is a reference point for all the rest. Chose not to merge other tables since they would be massive and take days to upload (the accidents table took over 5 hours to upload).
 - Make any changes to datasets before migration.
 - Migrate
-- Perform EDA using SQL queries with python.
+- Perform EDA using SQL queries with Python.
+  - Questions being asked:
+  - What percentage of accidents are motorcycles? What percentage of fatalities are motorcycles? (pie charts)
+  - What were the different types of weather factors in motorcycle accidents with percentages?
+  - Types of injuries in motorcycle accidents
+  - What are the different types of motorcycles that are commonly in an accident? (sports, offroad, cruiser...)
+  - Is there a correlation between helmets and injury severity, drinking/drugs and injury severity, speed and injury severity, speed and helmets, speed and drinking/drugs,
+  - What percentage of motorcycle accidents did the driver not have a valid license (this includes suspended ones)? Male/female statistics? (general MF, and also what % did no license accidents be male/female)
+  - Distracted, impaired, helmet, injury severity
+  - Weather statistics, see what percentage of accidents in weather were speed related, alc related, distract.
+  - More... 
 - Note down significant findings, and impactful factors.
-- Setup Streamlit site.
-- Create map of U.S with accident visualizations that are interactable. User will be able to select time period as well. This might be able to be done with Folium and streamlit.
+- Set up Streamlit site.
+- Create a map of the U.S. with accident visualizations that are intractable. Users will be able to select periods as well. This might be able to be done with Folium and Streamlit.
 - Create dashboards using Power BI. Optional use tableau as well for other visualizations. Implement on website that the user can interact with.
-- Create a model that takes the crash data, all the various parameters, and then comes up with classifications and probabilities of severity of crash. For example:
-  -   User inputs: ride with no helmet, speed, and it is raining. Model will output that if a crash were to occur, the probability of X outcome (fatal, totaled, light, etc).
+- Create a model that takes the crash data, and all the various parameters, and then comes up with classifications and probabilities of the severity of the crash. For example:
+  -   User inputs: ride with no helmet, speed, and it is raining. The model will output that if a crash occurs, the probability of X outcome (fatal, totaled, light, etc).
   -   Not sure what will be used to deploy this model.
-  -   Will be a form like structure.
+  -   Will be a form-like structure.
