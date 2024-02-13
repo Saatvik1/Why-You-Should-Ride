@@ -97,7 +97,8 @@
 - Perform EDA using SQL queries with Python.
   - Questions being asked:
   - What percentage of accidents are motorcycles? What percentage of fatalities are motorcycles? (pie charts)
-  - What were the different types of weather factors in motorcycle accidents with percentages? One way anova test to test stat significance of weather. Null is that there is no stat significance. 
+  - What were the different types of weather factors in motorcycle accidents with percentages? One way anova test to test stat significance of weather. Null is that there is no stat significance.
+    - One way anova takes the variance between the groups (in this case types of weather), and compares it against the variance within the groups. So if there is little variance in each group, and there is a large variance between groups, it suggests that the weather group is statistically significant in accidents.
   - Types of injuries in motorcycle accidents
   - What are the different types of motorcycles that are commonly in an accident? (sports, offroad, cruiser...)
   - Is there a correlation between helmets and injury severity, drinking/drugs and injury severity, speed and injury severity, speed and helmets, speed and drinking/drugs... correlation tests?
