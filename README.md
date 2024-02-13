@@ -101,7 +101,7 @@
     - One way anova takes the variance between the groups (in this case types of weather), and compares it against the variance within the groups. So if there is little variance in each group, and there is a large variance between groups, it suggests that the weather group is statistically significant in accidents.
   - Types of injuries in motorcycle accidents
   - What are the different types of motorcycles that are commonly in an accident? (sports, offroad, cruiser...)
-  - Is there a correlation between helmets and injury severity, drinking/drugs and injury severity, speed and injury severity, speed and helmets, speed and drinking/drugs... correlation tests?
+  - Is there a correlation between helmets and injury severity, drinking/drugs and injury severity, speed and injury severity, speed and helmets, speed and drinking/drugs... correlation tests? Venn diagrams to show overlap?
   - What percentage of motorcycle accidents did the driver not have a valid license (this includes suspended ones)? Male/female statistics? (general MF, and also what % did no license accidents be male/female)
   - Distracted, impaired, helmet, injury severity
   - Weather statistics, see what percentage of accidents in weather were speed related, alc related, distract.
