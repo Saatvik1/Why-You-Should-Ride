@@ -107,7 +107,7 @@
   - Weather statistics, see what percentage of accidents in weather were speed related, alc related, distract.
   - How people got hit / fell off statistics
   - Time vs statistics. Time vs # of moto accidents, average statistics per month over the 3 years.
-  - X statistic normalized over the 3 years to show relative increases. And also raw amount.
+  - X statistic normalized over the 3 years to show relative increases. And also raw amount. Something like a Z test to see if they are significant increases maybe? First need to figure out distribution.
   - Age range most deaths.
 - Note down significant findings, and impactful factors.
 - Set up Streamlit site.
