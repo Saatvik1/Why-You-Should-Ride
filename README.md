@@ -104,7 +104,8 @@
   - What percentage of motorcycle accidents did the driver not have a valid license (this includes suspended ones)? Male/female statistics? (general MF, and also what % did no license accidents be male/female)
   - Distracted, impaired, helmet, injury severity
   - Weather statistics, see what percentage of accidents in weather were speed related, alc related, distract.
-  - More... 
+  - How people got hit / fell off statistics
+  - Time vs statistics. Time vs # of moto accidents, average statistics per month over the 3 years.  
 - Note down significant findings, and impactful factors.
 - Set up Streamlit site.
 - Create a map of the U.S. with accident visualizations that are intractable. Users will be able to select periods as well. This might be able to be done with Folium and Streamlit.
