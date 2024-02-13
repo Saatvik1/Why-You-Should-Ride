@@ -97,10 +97,10 @@
 - Perform EDA using SQL queries with Python.
   - Questions being asked:
   - What percentage of accidents are motorcycles? What percentage of fatalities are motorcycles? (pie charts)
-  - What were the different types of weather factors in motorcycle accidents with percentages?
+  - What were the different types of weather factors in motorcycle accidents with percentages? One way anova test to test stat significance of weather. Null is that there is no stat significance. 
   - Types of injuries in motorcycle accidents
   - What are the different types of motorcycles that are commonly in an accident? (sports, offroad, cruiser...)
-  - Is there a correlation between helmets and injury severity, drinking/drugs and injury severity, speed and injury severity, speed and helmets, speed and drinking/drugs,
+  - Is there a correlation between helmets and injury severity, drinking/drugs and injury severity, speed and injury severity, speed and helmets, speed and drinking/drugs... correlation tests?
   - What percentage of motorcycle accidents did the driver not have a valid license (this includes suspended ones)? Male/female statistics? (general MF, and also what % did no license accidents be male/female)
   - Distracted, impaired, helmet, injury severity
   - Weather statistics, see what percentage of accidents in weather were speed related, alc related, distract.
