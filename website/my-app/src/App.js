@@ -17,6 +17,8 @@ import { ColorModeSwitcher } from './ColorModeSwitcher';
 import { Logo } from './Logo';
 import Findings from './Pages/Findings';
 import Model from './Pages/Model.jsx';
+import Explore from './Pages/Explore';
+import Contact from './Pages/Contact';
 
 
 function App() {
@@ -40,7 +42,9 @@ function App() {
       <Routes>
         <Route path="/" exact element={<Landing />} />      
         <Route path={"/My Findings"} exact element={<Findings refresh={refresh} />} />
-        <Route path="/Predict Injury Severity" exact element={<Model refresh={refresh}/>} />      
+        <Route path="/Predict Injury Severity" exact element={<Model refresh={refresh}/>} />    
+        <Route path={"/Explore FARS"} exact element={<Explore refresh={refresh} />} />
+        <Route path={"/Contact Me"} exact element={<Contact refresh={refresh} />} />
       </Routes>
     </BrowserRouter>
   </div>

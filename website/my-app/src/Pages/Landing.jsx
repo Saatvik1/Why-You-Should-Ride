@@ -20,12 +20,16 @@ const Landing = () => {
         window.location.href = "/My%20Findings";
     }
 
-    const handleGetStartedClick = () => {
-        //window.location.href = "/builder";
-    }
-
     const handleModelClick = () => {
         window.location.href = "/Predict%20Injury%20Severity";
+    }
+
+    const handleContactClick = () => {
+        window.location.href = "/Contact%20Me";
+    }
+
+    const handleLearnMoreClick = () => {
+        window.location.href = "/Explore%20FARS";
     }
 
 
@@ -64,13 +68,13 @@ const Landing = () => {
                         _hover={{ bg: 'green.500' }}>
                         Read My Findings
                     </Button>
-                    <Button onClick={handleGetStartedClick}
+                    <Button onClick={handleLearnMoreClick}
                         rounded={'full'}
                         px={6}
                         colorScheme={'green'}
                         bg={'green.400'}
                         _hover={{ bg: 'green.500' }}>
-                        Explore the Data
+                        Explore the Dataset (FARS)
                     </Button>
                     <Button onClick={handleModelClick}
                         rounded={'full'}
@@ -80,13 +84,13 @@ const Landing = () => {
                         _hover={{ bg: 'green.500' }}>
                         How Severe Will Your Accident Be?
                     </Button>
-                    <Button onClick={handleGetStartedClick}
+                    <Button onClick={handleContactClick}
                         rounded={'full'}
                         px={6}
                         colorScheme={'green'}
                         bg={'green.400'}
                         _hover={{ bg: 'green.500' }}>
-                        Contact Me
+                        Project Info & Contact Me
                     </Button>
                     
                 </Stack>

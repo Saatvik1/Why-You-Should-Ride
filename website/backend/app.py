@@ -8,6 +8,15 @@ import os
 import re
 import string
 
+
+import sqlalchemy
+from sqlalchemy import create_engine, text
+
+connection_string = "mysql+mysqlconnector://" + os.getenv("DATABASE_USERNAME")+ ":" + os.getenv("DATABASE_PASSWORD") +"@" + os.getenv("DATABASE_HOST") + ":" + "3306" + "/why_you_should_ride_a_motorcycle"
+engine = create_engine(connection_string, echo=True)
+connection = engine.connect()
+
+
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
@@ -19,6 +28,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.ensemble import GradientBoostingClassifier
 import sklearn
 import numpy as np
+import pandas as pd
 
 
 app = Flask(__name__)
@@ -29,6 +39,7 @@ random_forest = load('F:\\jupyter_workspace\\WhyYouShouldRide\\Why-You-Should-Ri
 scaler = load('F:\\jupyter_workspace\\WhyYouShouldRide\\Why-You-Should-Ride\\scaler.joblib')
 
 
+
 @app.route("/",  methods=['GET', 'POST'])
 @cross_origin()
 def hello():
@@ -36,6 +47,44 @@ def hello():
  
 if __name__ == "__main__":
     app.run(debug = True, host = "0.0.0.0", port = 3000)
+
+
+
+@app.route("/get/coords", methods = ['GET'])
+@cross_origin()
+def get_coords():
+
+    year = None
+    try:
+        temp = request.args.get('year')
+        if(temp == '2019'):
+            year = 'tn'
+        elif(temp == '2020'):
+            year = 'tt'
+        elif(temp == '2021'):
+            year = 'tto'
+        else:
+            return {'status' : False, "message": "Please provide proper YEAR VALUE."}
+    except Exception as _:
+        return {'status' : False, "message": "Please provide proper request body."}
+
+    #print(year)
+    query = f"SELECT all_accidents_table.LATITUDE, all_accidents_table.LONGITUD FROM (SELECT vehicle.CASE_INDEX FROM {year}_vehicle_table vehicle WHERE vehicle.BODY_TYPNAME LIKE 'Two Wheel Motorcycle%' OR vehicle.BODY_TYPNAME LIKE 'Off-road Motorcycle%') AS V INNER JOIN all_accidents_table ON V.CASE_INDEX = all_accidents_table.CASE_INDEX;"
+
+    result = connection.execute(text(query))
+    rows = result.fetchall()
+
+    df = pd.DataFrame(rows, columns=result.keys())
+
+    #print(df.head())
+
+    res = []
+
+    for index, row in df.iterrows():
+        res.append([row['LATITUDE'], row['LONGITUD']])
+
+
+    return res
 
 
 

@@ -31,7 +31,7 @@ import { NavLink } from 'react-router-dom'
 
 import { useRef, useState } from 'react';
 
-const Links = ['My Findings', 'Explore FARS', 'Predict Injury Severity', 'Contact Me'];
+const Links = ['My Findings', 'Explore FARS', 'Predict Injury Severity', 'Contact Me & More Info'];
 
 export default function NavBar(props) {
     const { isOpen, onOpen, onClose } = useDisclosure();
