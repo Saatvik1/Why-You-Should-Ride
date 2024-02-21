@@ -2,6 +2,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [Website Link](#live-version-available)
+- [FARS 2021 PowerBI Dashboard](#fars-2021-powerbi-dashboard)
 - [Development Process](#development-process)
 - [Why I Made This](#why-i-made-this)
 - [Old Notes During Development](#live-notes)
@@ -14,6 +15,11 @@ No quick start is required, go to [whyyoushouldride.com](https://www.whyyoushoul
 
 ![image](https://github.com/Saatvik1/Why-You-Should-Ride/assets/103705402/7e1e39f1-f60c-4c74-97dd-5f4b96e0eebc)
 ![image](https://github.com/Saatvik1/Why-You-Should-Ride/assets/103705402/64039ff7-6943-496e-905d-57cf704a3c87)
+
+# FARS 2021 PowerBI Dashboard
+![image](https://github.com/Saatvik1/Why-You-Should-Ride/assets/103705402/c839e553-3289-4105-b605-fc86b318c507)
+![image](https://github.com/Saatvik1/Why-You-Should-Ride/assets/103705402/de13647f-7245-4c52-9a0e-0a9e86d663b9)
+
 
 
 # Development Process
