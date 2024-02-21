@@ -9,7 +9,7 @@
 # Why You Should Ride
 A project I worked on to raise awareness about the dangers of motorcycle riding and to uncover hidden trends and reasons why riding is proportionately more dangerous than other forms of transportation. 
 # Live Version Available! 
-# [Why You Should Ride a Motorcycle!](whyyoushouldride.com)
+# [Why You Should Ride a Motorcycle!](https://www.whyyoushouldride.com)
 No quick start is required, go to [whyyoushouldride.com](https://www.whyyoushouldride.com). There you can view my suggestions for motorcycle riders based on EDA results, explore the data sets, and predict accident severity. 
 
 ![image](https://github.com/Saatvik1/Why-You-Should-Ride/assets/103705402/7e1e39f1-f60c-4c74-97dd-5f4b96e0eebc)
