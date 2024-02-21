@@ -1,6 +1,7 @@
 # Project Title
 
 # Quickstart/Demo
+No quick start is required, go to whyyoushouldride.com  
 
 # Table of Contents
 
