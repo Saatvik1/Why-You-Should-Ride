@@ -5,7 +5,7 @@
 #### There are millions of motorcyclists in the U.S. It's a popular hobby for many and is a part of many cultures. While it may be fun and thrilling to ride motorcycles, it also comes with its disadvantages and risks. As an aspiring and beginner rider, I want my fellow riders to stay as safe as possible. My goal is to raise awareness, beyond the known knowledge that motorcycles are dangerous so that riders can take specific actions to ride safely instead of receiving the common fear-mongering comment. 
 
 ### Project Outline: 
-#### Data will be selected by the NHTSA [insert link to data sources] (general website link) [insert link]. NHTSA provides detailed data on all motor crashes and publicy realeases said data. These datasets are very large and will require a lot of cleaning and formatting before it is ready to use. 
+#### Data will be selected by the NHTSA [https://www.nhtsa.gov/]. NHTSA provides detailed data on all motor crashes and publicy realeases said data. These datasets are very large and will require a lot of cleaning and formatting before it is ready to use. 
 
 #### First step will be to collect relevant data. The datasets they provide are fragmented. The same crash will appear in different csv sheets with different data (weather, vehicle, person, etc). 
 - Decide what datasheets.
