@@ -1,34 +1,21 @@
-import { Box, Heading, Stack, SimpleGrid, Link, Card, CardHeader, CardBody, StackDivider, Text } from "@chakra-ui/react";
+import { Box, Heading, Stack, Link, Text } from "@chakra-ui/react";
 import { ExternalLinkIcon } from '@chakra-ui/icons';
 import React from "react";
-import { UseDisclosureProps } from "@chakra-ui/react";
-import { useDisclosure } from "@chakra-ui/react";
 import axios from 'axios'
 import { useEffect, useState } from 'react'
 import { Field, Form, Formik } from 'formik';
 import '../Explore.css'
-//import "leaflet/dist/leaflet.css"
 import 'leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.webpack.css'; // Re-uses images from ~leaflet package
-import L from 'leaflet';
 import 'leaflet-defaulticon-compatibility';
 
-import { MapContainer, TileLayer, useMap, Marker, Popup } from 'react-leaflet'
+import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 
 
 
 
 import {
-    Modal,
-    ModalOverlay,
-    ModalContent,
-    ModalHeader,
-    ModalFooter,
-    ModalBody,
-    ModalCloseButton,
     Button,
     Center,
-    Select,
-    Input,
   } from '@chakra-ui/react'
 
 
@@ -36,28 +23,19 @@ import {
 const Explore = () => {
 
 
-    const { isOpen, onOpen, onClose } = useDisclosure()
-    const [size, setSize] = React.useState('md')
     const [year, setYear] = useState("2021")
     const [markers, setMarkers] = useState(undefined)
 
     var coords = []
     
 
-    // const handlePredict = (values) =>{
-    //     (async () => {
-            
-
-    //     })()
-
-    // }
-
     useEffect(() => {
         (async () => {
 
             console.log("tf is happening")
             try{
-                await axios.get('http://127.0.0.1:5000/get/coords', {
+                // await axios.get('http://127.0.0.1:5000/get/coords', {
+                await axios.get('https://saatvik1.pythonanywhere.com/get/coords', {
                     params: {
                         year : year,
                     }
@@ -119,7 +97,7 @@ const Explore = () => {
                         Here is an interactive map to view locations of motorcycle accidents, so you can see how geographic locations affect them. {'\n'}{'\n'}
                         As for the dashboard, unfortunately I only have a student account and am not able to publish it. But, you can head to the repository for this 
                         project and download it at:  {'\n'}
-                        <Link href='https://github.com/Saatvik1/Why-You-Should-Ride/tree/main/website/my-app/src/Images' isExternal>
+                        <Link href='https://github.com/Saatvik1/Why-You-Should-Ride/blob/main/website/my-app/src/Images/FARS2021Dashboard.pbix' isExternal>
                             Github Link to PowerBI File <ExternalLinkIcon mx='2px' />
                         </Link> {'\n'}
                         All you need is PowerBI desktop and then just open the file!

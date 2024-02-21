@@ -3,11 +3,8 @@ from flask import jsonify, request
 from flask_cors import CORS, cross_origin
 from joblib import load
 
-import json
-import os
-import re
-import string
 
+import os
 
 import sqlalchemy
 from sqlalchemy import create_engine, text
@@ -35,8 +32,8 @@ app = Flask(__name__)
 
 CORS(app)
 
-random_forest = load('F:\\jupyter_workspace\\WhyYouShouldRide\\Why-You-Should-Ride\\random_forest_model_second.joblib')
-scaler = load('F:\\jupyter_workspace\\WhyYouShouldRide\\Why-You-Should-Ride\\scaler.joblib')
+random_forest = load('models/random_forest_model_second.joblib')
+scaler = load('models/scaler.joblib')
 
 
 
@@ -53,6 +50,8 @@ if __name__ == "__main__":
 @app.route("/get/coords", methods = ['GET'])
 @cross_origin()
 def get_coords():
+
+
 
     year = None
     try:

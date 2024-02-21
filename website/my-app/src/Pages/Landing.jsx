@@ -5,31 +5,31 @@ import {
     Stack,
     Text,
     Button,
-    Icon,
-    IconProps,
-    Image,
     Box,
 } from '@chakra-ui/react'
 import theme from '../theme'
+import { useNavigate } from 'react-router-dom';
 
 
 
 const Landing = () => {
+    const navigate = useNavigate()
+    
 
     const handleReadMyFindings = () => {
-        window.location.href = "/My%20Findings";
+        navigate('/MyFindings');
     }
 
     const handleModelClick = () => {
-        window.location.href = "/Predict%20Injury%20Severity";
+        navigate('/PredictInjurySeverity');
     }
 
     const handleContactClick = () => {
-        window.location.href = "/Contact%20Me";
+        navigate('/ContactMe&MoreInfo');
     }
 
     const handleLearnMoreClick = () => {
-        window.location.href = "/Explore%20FARS";
+        navigate('/ExploreFARS');
     }
 
 

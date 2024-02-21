@@ -41,10 +41,10 @@ function App() {
       <NavBar refreshApp={refreshApp} />
       <Routes>
         <Route path="/" exact element={<Landing />} />      
-        <Route path={"/My Findings"} exact element={<Findings refresh={refresh} />} />
-        <Route path="/Predict Injury Severity" exact element={<Model refresh={refresh}/>} />    
-        <Route path={"/Explore FARS"} exact element={<Explore refresh={refresh} />} />
-        <Route path={"/Contact Me"} exact element={<Contact refresh={refresh} />} />
+        <Route path={"/MyFindings"} exact element={<Findings refresh={refresh} />} />
+        <Route path={"/PredictInjurySeverity"} exact element={<Model refresh={refresh}/>} />    
+        <Route path={"/ExploreFARS"} exact element={<Explore refresh={refresh} />} />
+        <Route path={"/ContactMe&MoreInfo"} exact element={<Contact refresh={refresh} />} />
       </Routes>
     </BrowserRouter>
   </div>

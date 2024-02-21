@@ -5,14 +5,14 @@ import * as ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import * as serviceWorker from './serviceWorker';
-import theme from './theme';
+import theme from './theme.js';
 import { ChakraBaseProvider } from '@chakra-ui/react'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
       <ChakraBaseProvider>
         <ChakraProvider theme={theme} >
-          <ColorModeScript />
+          <ColorModeScript theme={theme}/>
             <App />
           </ChakraProvider>
       </ChakraBaseProvider>

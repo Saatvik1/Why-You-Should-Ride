@@ -1,25 +1,15 @@
-import { Box, Heading, Stack, SimpleGrid, Link, Card, CardHeader, CardBody, StackDivider, Text } from "@chakra-ui/react";
-import { ExternalLinkIcon } from '@chakra-ui/icons';
+import { Box, Heading, Stack, Text } from "@chakra-ui/react";
 import React from "react";
-import { UseDisclosureProps } from "@chakra-ui/react";
-import { useDisclosure } from "@chakra-ui/react";
 import axios from 'axios'
-import { useEffect, useState } from 'react'
+import {useState } from 'react'
 import { Field, Form, Formik } from 'formik';
 
 
 import {
-    Modal,
-    ModalOverlay,
-    ModalContent,
-    ModalHeader,
-    ModalFooter,
-    ModalBody,
-    ModalCloseButton,
+    
     Button,
     Center,
-    Select,
-    Input,
+    
   } from '@chakra-ui/react'
 
 
@@ -27,8 +17,7 @@ import {
 const Model = () => {
 
 
-    const { isOpen, onOpen, onClose } = useDisclosure()
-    const [size, setSize] = React.useState('md')
+    
     const [prediction, setPrediction] = useState("")
 
     
@@ -38,7 +27,7 @@ const Model = () => {
             console.log(values)
 
             try{
-                await axios.get('http://127.0.0.1:5000/get/predict', {
+                await axios.get('https://saatvik1.pythonanywhere.com/get/predict', {
                     params: {
                         helmet : values.helmetSelect,
                         drink : values.drinkSelect,
