@@ -10,7 +10,7 @@ No quick start is required, go to [whyyoushouldride.com](whyyoushouldride.com). 
 
 # Table of Contents
 
-- [Quickstart/Demo](#live-version-available)
+- [Website Link](#live-version-available)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,8 +18,14 @@ No quick start is required, go to [whyyoushouldride.com](whyyoushouldride.com). 
 - [Contribute](#contribute)
 - [License](#license)
 
-# Installation
+# The General Process
 [(Back to top)](#table-of-contents)
+- Collect Data from NHTSA (CSV)
+- Extract, transfer, load, (ETL) and MySQL schema creation and population (Python, Pandas, SQL)
+  - Using Pandas to convert CSVs to data frames, I learned more about the dataset and cleaned it up.
+  - Uploaded data to MySQL database into a schema that I created.
+- Exploratory data analysis (EDA) (SQL, Python, Pandas, Numpy, Matplotlib, Statistical Analysis)
+  - Dived into the data and it's story. Utilized my knowledge in data analytics and statistics to find significant trends and differences. Details in [NB]()
 
 # Usage
 [(Back to top)](#table-of-contents)
