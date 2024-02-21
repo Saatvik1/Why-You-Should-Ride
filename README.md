@@ -113,7 +113,10 @@
 - Set up Streamlit site.
 - Create a map of the U.S. with accident visualizations that are intractable. Users will be able to select periods as well. This might be able to be done with Folium and Streamlit.
 - Create dashboards using Power BI. Optional use tableau as well for other visualizations. Implement on website that the user can interact with.
+  - I couldn't embed a BI dashboard because of admin issues. Microsoft is greedy, and stony brook sucks. But i did decided to put the map on using Leaflet, a react library.   
 - Create a model that takes the crash data, and all the various parameters, and then comes up with classifications and probabilities of the severity of the crash. For example:
   -   User inputs: ride with no helmet, speed, and it is raining. The model will output that if a crash occurs, the probability of X outcome (fatal, totaled, light, etc).
   -   Not sure what will be used to deploy this model.
   -   Will be a form-like structure.
+  -   Decided on using a random forest. It is good for the data, since it inherently avoids overfitting. Since each tree is randomly trained it will catch all the different aspects of the data, especially since FARS is a lot of fatalities.
+  -   Also relied on some under-sampling.
