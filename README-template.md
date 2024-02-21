@@ -1,7 +1,7 @@
 # Table of Contents
 
-- [Website Link](#live-version-available)
 - [Table of Contents](#table-of-contents)
+- [Website Link](#live-version-available)
 - [Development Process](#development-process)
 - [Why I Made This](#why-i-made-this)
 - [Old Notes During Development](#live-notes)
