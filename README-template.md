@@ -49,6 +49,7 @@ No quick start is required, go to [whyyoushouldride.com](whyyoushouldride.com). 
 
 
 # Live Notes
+[(Back to top)](#table-of-contents)
 # Why-You-Should-Ride
 
 ## Project Plan: 
