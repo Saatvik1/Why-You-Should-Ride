@@ -4,7 +4,7 @@
 - [Table of Contents](#table-of-contents)
 - [Development Process](#development-process)
 - [Why I Made This](#why-i-made-this)
-- [Old Notes During Development] (#live-notes)
+- [Old Notes During Development](#live-notes)
 
 # Why You Should Ride
 A project I worked on to raise awareness about the dangers of motorcycle riding and to uncover hidden trends and reasons why riding is proportionately more dangerous than other forms of transportation. 
